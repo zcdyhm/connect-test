@@ -1,0 +1,3364 @@
+Manifest-Version: 1.0
+Built-By: Signflinger
+Created-By: Android Gradle 8.0.2
+
+Name: AndroidManifest.xml
+SHA1-Digest: eYJqezPtQclikON/hfo/3qUa3jQ=
+
+Name: assets/DNtLtSISvb
+SHA1-Digest: 4JNtYoFQ2i8E+p5+pQGd2jHLKCA=
+
+Name: assets/csv_client/background_decos.csv
+SHA1-Digest: QDnXXObB56ukpnfluxQhKRfn1l4=
+
+Name: assets/csv_client/billing_packages.csv
+SHA1-Digest: dyjX5Tx3yb9vVdB3ASK0O1HH+Mo=
+
+Name: assets/csv_client/client_globals.csv
+SHA1-Digest: ggjDRvyQzVSD3RUDA01z/k7EWr4=
+
+Name: assets/csv_client/credits.csv
+SHA1-Digest: D48HhEVoiOCsuJKnFng1SeA2VpQ=
+
+Name: assets/csv_client/effects.csv
+SHA1-Digest: kE7J0q14voiVp5/LJpF0ppArGh4=
+
+Name: assets/csv_client/event_output.csv
+SHA1-Digest: 3F/tlAHs6yjmkk66RktEfvK6kyE=
+
+Name: assets/csv_client/health_bars.csv
+SHA1-Digest: OEC9B8EXcMIrzH/GlW7jGjqFlHU=
+
+Name: assets/csv_client/helpshift.csv
+SHA1-Digest: QECGHLyC1D0GCx0TVJsnICbS530=
+
+Name: assets/csv_client/hints.csv
+SHA1-Digest: 4vNLd7RaymKNX7308HABS2FQ1+8=
+
+Name: assets/csv_client/music.csv
+SHA1-Digest: IW6CaiMcjK1ajvzZlPQVNCHFZLw=
+
+Name: assets/csv_client/news.csv
+SHA1-Digest: dT1TAv986pdKMA6iZT9zg7QJ7vA=
+
+Name: assets/csv_client/particle_emitters.csv
+SHA1-Digest: wC5ZteYkMsHeZKBFTxvFoZbuIjs=
+
+Name: assets/csv_client/sorted_regions/CN_regions.csv
+SHA1-Digest: 3cF3lZY7co68M7jOlGVoqE3tMRg=
+
+Name: assets/csv_client/sounds.csv
+SHA1-Digest: NLIhrU18YF67tYFAll2qFj1dyJw=
+
+Name: assets/csv_client/texts.csv
+SHA1-Digest: MlxNvS2IxhRQShDQL2ZVm4eSE2M=
+
+Name: assets/csv_client/texts_patch.csv
+SHA1-Digest: ZD8CeksOLOUTOT/aaM5gs5wn3fE=
+
+Name: assets/csv_logic/abilities.csv
+SHA1-Digest: imPP0nSfv0l8rYbSofeZKLA5qTo=
+
+Name: assets/csv_logic/achievements.csv
+SHA1-Digest: vqBChjYATFGV2tuuTgnEMwX+S2I=
+
+Name: assets/csv_logic/alliance_badges.csv
+SHA1-Digest: r1C8vIyuO0u33u9+TQxsoGD/u4s=
+
+Name: assets/csv_logic/alliance_roles.csv
+SHA1-Digest: p9NBT4ytOqgVeOlgMHUVOLS/LRo=
+
+Name: assets/csv_logic/area_effect_objects.csv
+SHA1-Digest: IycYaCLKDq/F6Lmop3th/kgxZg4=
+
+Name: assets/csv_logic/arenas.csv
+SHA1-Digest: gHwrYRk8EBU/vAEArpDPbBqw53M=
+
+Name: assets/csv_logic/buildings.csv
+SHA1-Digest: IypC0cjAtDOGj4VvqNtJX8MQy0I=
+
+Name: assets/csv_logic/character_buffs.csv
+SHA1-Digest: eqmTJQDcVlnN09fEmDuu1d4VFb8=
+
+Name: assets/csv_logic/characters.csv
+SHA1-Digest: ZjhOvoCsU5m0M4yTVwSDxtcxFEs=
+
+Name: assets/csv_logic/chest_order.csv
+SHA1-Digest: ymA4RfMhr3RcbcRpZor55fp5VzQ=
+
+Name: assets/csv_logic/configuration_definitions.csv
+SHA1-Digest: 3qHHxx3KBZs4MSHlRBeqK2gXk8g=
+
+Name: assets/csv_logic/content_tests.csv
+SHA1-Digest: 0mFrES5BZhvX+mVQJ58ociYN3qA=
+
+Name: assets/csv_logic/decos.csv
+SHA1-Digest: WHbhbi8dbSb24yQwt6RjJI6/xwA=
+
+Name: assets/csv_logic/draft_deck.csv
+SHA1-Digest: 1cKenhSE50a9hyK9rPjrHBgdoIk=
+
+Name: assets/csv_logic/event_categories.csv
+SHA1-Digest: Yr7/isQoKDeseBbfg8f6RDvHthA=
+
+Name: assets/csv_logic/event_category_definitions.csv
+SHA1-Digest: qoqtcZjyo8NabE1zF3n6GxOJTX8=
+
+Name: assets/csv_logic/event_category_enums.csv
+SHA1-Digest: NFMUew7gnVOkgRjM7oAkzuG6DYE=
+
+Name: assets/csv_logic/event_category_object_definitions.csv
+SHA1-Digest: ayQsuCqfzvbl4loLt+YnOpq2Ylg=
+
+Name: assets/csv_logic/event_targeting_definitions.csv
+SHA1-Digest: v1/d33uuE2jbdwYS+R2WieJE/xg=
+
+Name: assets/csv_logic/exp_levels.csv
+SHA1-Digest: vzWrzzbam6YkPHVigLTQVPp/wPY=
+
+Name: assets/csv_logic/gamble_chests.csv
+SHA1-Digest: oMyqyBz6ghcCe9K3jo0oSI176cg=
+
+Name: assets/csv_logic/game_modes.csv
+SHA1-Digest: hB5+3oFCF0EZsI2Qa6S1cG7tA8o=
+
+Name: assets/csv_logic/globals.csv
+SHA1-Digest: RgufakzbRQIK//uZ3O3GUZeClzE=
+
+Name: assets/csv_logic/heroes.csv
+SHA1-Digest: 4yTH1t6+5HXTfsNV0HAqTiEq5oE=
+
+Name: assets/csv_logic/locales.csv
+SHA1-Digest: JL3iDMeVJaAneKiOhJTc9JxnN7s=
+
+Name: assets/csv_logic/locations.csv
+SHA1-Digest: Eo3PIDTU3O0eRB2tRs5FEtrsaeI=
+
+Name: assets/csv_logic/npcs.csv
+SHA1-Digest: J2b8NZXmbTLZ4vidYe9sgaTi/Vk=
+
+Name: assets/csv_logic/predefined_decks.csv
+SHA1-Digest: B9XAFEOQ+QrqY1Vy+qMJcmXx/W4=
+
+Name: assets/csv_logic/projectiles.csv
+SHA1-Digest: qdLGTVFdOJgI6OmnZlAb6THYrTw=
+
+Name: assets/csv_logic/pve_boss.csv
+SHA1-Digest: 3PfDlJHudLaKdfqJKWtzS1s0ets=
+
+Name: assets/csv_logic/pve_gamemodes.csv
+SHA1-Digest: ZHnEySCl3uxAwJ/glYnzZBviQwU=
+
+Name: assets/csv_logic/pve_waves.csv
+SHA1-Digest: AdnDFD1vNUCr2BfZ0OUdjSrFaAs=
+
+Name: assets/csv_logic/quest_order.csv
+SHA1-Digest: zTBtz56k9gHaTrHRkCihuQ11dnE=
+
+Name: assets/csv_logic/rarities.csv
+SHA1-Digest: UKspWfCBxGJL6keADaDivNdDodg=
+
+Name: assets/csv_logic/regions.csv
+SHA1-Digest: u7pVMpyEbUT6a7MEpNim+v3LuNQ=
+
+Name: assets/csv_logic/resource_packs.csv
+SHA1-Digest: 9qJmKj6+JDv195+cKWPIe5nysfk=
+
+Name: assets/csv_logic/resources.csv
+SHA1-Digest: Ywp47hNQiQ5vKTiAabNiKyi1O3M=
+
+Name: assets/csv_logic/shop.csv
+SHA1-Digest: ZA/PpfV7sIucpvW70uXI0NelHbE=
+
+Name: assets/csv_logic/skins.csv
+SHA1-Digest: aeM8LPhtHosEF595DVTq+jcs8FM=
+
+Name: assets/csv_logic/spell_sets.csv
+SHA1-Digest: u77YmagWYQA2wOq/wFLZxW7YdDw=
+
+Name: assets/csv_logic/spells_buildings.csv
+SHA1-Digest: Ve+NiSWW088loEF0hj2wNz/0xYU=
+
+Name: assets/csv_logic/spells_characters.csv
+SHA1-Digest: 5P0+xDrs1+ZpoEPeqqrCxT38y8c=
+
+Name: assets/csv_logic/spells_heroes.csv
+SHA1-Digest: EmNcODXmBUe/9Huq4N2wyc40knw=
+
+Name: assets/csv_logic/spells_other.csv
+SHA1-Digest: IxOvgQqJ41zXON1DKQpC0M7A9bw=
+
+Name: assets/csv_logic/survival_modes.csv
+SHA1-Digest: qWrgPyRiA+Tnn6S06L052jwzUzA=
+
+Name: assets/csv_logic/taunts.csv
+SHA1-Digest: TznpRgjCtOVaZDq6NZabyPUPM18=
+
+Name: assets/csv_logic/tournament_tiers.csv
+SHA1-Digest: tu4F1fEDHzA24gIvkVnYGOfod7Q=
+
+Name: assets/csv_logic/treasure_chests.csv
+SHA1-Digest: OqOES1LJ5Dq6+ifLT3/h/pNQYd0=
+
+Name: assets/csv_logic/tutorial_chest_order.csv
+SHA1-Digest: vZilRyNwfGHIVxQRdx6/Gw548K4=
+
+Name: assets/csv_logic/tutorials_home.csv
+SHA1-Digest: N104cV7D18QW7MojSXcgMwRUdYk=
+
+Name: assets/csv_logic/tutorials_npc.csv
+SHA1-Digest: ZGtNBlLUDd8Wh8PKln7A3uaR/AM=
+
+Name: assets/csv_logic/tve_gamemodes.csv
+SHA1-Digest: B6auLs5deAnHxrmkKNKxdFGhxzU=
+
+Name: assets/fingerprint.json
+SHA1-Digest: wtHCSv7BgwEzDRcPMPBaM//kaqA=
+
+Name: assets/font/NotoNaskhArabic-Bold.ttf
+SHA1-Digest: lRWYkSUwlWbPLEpahNfkmPhTk58=
+
+Name: assets/font/debug.fnt
+SHA1-Digest: cZhw1Fc7EmfrqCG0pUmLVQUTnOk=
+
+Name: assets/font/sc_ccbackbeatregular.ttf
+SHA1-Digest: dRfDfLmH2rElsg+kq2JJitcekCQ=
+
+Name: assets/font/sgb_20170216.ttf
+SHA1-Digest: qC0NMPW0Qe0SOQfG/l3hjEyakmA=
+
+Name: assets/font/supercell-magic_0.ttf
+SHA1-Digest: /8kase/DXXES8rtVKzLAbfdMor8=
+
+Name: assets/image/range.png
+SHA1-Digest: gq6s6fIdagT5NEmpdfdC5LTVOLE=
+
+Name: assets/locations/barbarian_arena.csv
+SHA1-Digest: RYf3zxI0jZIEva/gVFNLLNx+Ges=
+
+Name: assets/locations/barbarian_arena_2v2.csv
+SHA1-Digest: YUm0e/Zo/h7icJNecZmXlnjZ2W8=
+
+Name: assets/locations/bone_arena.csv
+SHA1-Digest: u+sig9jy63Fauo9Ng5SlDq1HhzE=
+
+Name: assets/locations/bone_arena_2v2.csv
+SHA1-Digest: 3ORS0inJkBbvZIxXBfH+qtWRdys=
+
+Name: assets/locations/builder_arena.csv
+SHA1-Digest: cgzmJCiJaAth3eQttWsjEQEu4bA=
+
+Name: assets/locations/builder_arena_2v2.csv
+SHA1-Digest: UUqQA5ug83t8mfg3LuxJI1g1vIo=
+
+Name: assets/locations/champion_arena.csv
+SHA1-Digest: sphRr6vWcRcmsouGbu0TGAfKdIA=
+
+Name: assets/locations/champion_arena_2v2.csv
+SHA1-Digest: msmomuUAQ+5uaV1pjigijyAyEFc=
+
+Name: assets/locations/dark_arena.csv
+SHA1-Digest: LbN1tMvkPVa7CCzbWndyxwsgxQs=
+
+Name: assets/locations/dark_arena_2v2.csv
+SHA1-Digest: CXc/b/2BJWd3wjSZnf9E/wEpBak=
+
+Name: assets/locations/goblin_arena.csv
+SHA1-Digest: q4a9dZwnHMaIFZuJG8i76JvcEC4=
+
+Name: assets/locations/goblin_arena_2v2.csv
+SHA1-Digest: RZgurBgLtVrwtybfboyLmAfnBVg=
+
+Name: assets/locations/ice_arena.csv
+SHA1-Digest: ViJdoRF7HPwgzrPdW7V30z2Y2tg=
+
+Name: assets/locations/ice_arena_2v2.csv
+SHA1-Digest: JY8HKKbnJCJtNC4Bc6t09RcT14w=
+
+Name: assets/locations/jungle_arena.csv
+SHA1-Digest: P86be6IW9N2W2rSBN/kD5q4hbpg=
+
+Name: assets/locations/jungle_arena_2v2.csv
+SHA1-Digest: aYFqN/YiGsCrrqLH7OVPYevzpiE=
+
+Name: assets/locations/legendary_arena.csv
+SHA1-Digest: 8X+AeA9u/JPP/MkOJaCLyJtQ09A=
+
+Name: assets/locations/legendary_arena_2v2.csv
+SHA1-Digest: p8nn5dRCbSqxnkQ4Ec/NLnyPDp0=
+
+Name: assets/locations/royal_arena.csv
+SHA1-Digest: Si4XMtGrePehxQPL3UADSbF1rwE=
+
+Name: assets/locations/royal_arena_2v2.csv
+SHA1-Digest: 2+ml2QijmNEf7KU64Dt3cxB9tOA=
+
+Name: assets/locations/spell_arena.csv
+SHA1-Digest: Mkv/G8Ff/kVk1ejQOmAxeCc1mhw=
+
+Name: assets/locations/spell_arena_2v2.csv
+SHA1-Digest: Vg5MvhsKFbSQxONV+b1ST9SQ4r0=
+
+Name: assets/locations/tilemap_pve.csv
+SHA1-Digest: PdkYza32XlKmodux8V7rwTOKlcE=
+
+Name: assets/locations/titan_arena.csv
+SHA1-Digest: kXcjxFgl0ppdth8BGI884OkPs3w=
+
+Name: assets/locations/training_arena.csv
+SHA1-Digest: CcXyXmeK7uuPwGU0PPM35TH2n6s=
+
+Name: assets/locations/training_arena_duoxian.csv
+SHA1-Digest: tvjGl/A0ySCvy56PHebDtTT1vpk=
+
+Name: assets/locations/training_arena_pve.csv
+SHA1-Digest: THGMRWyVxo/L4PfI+j216vfOo9Y=
+
+Name: assets/locations/training_arena_pve1.csv
+SHA1-Digest: byeA+qz8HoQzxI495fa3LsfZOfo=
+
+Name: assets/locations/training_arena_tve.csv
+SHA1-Digest: THGMRWyVxo/L4PfI+j216vfOo9Y=
+
+Name: assets/music/2min_loop_battle_01.ogg
+SHA1-Digest: hcuqVaaQSxR4cVcsiQSyC0EJaxY=
+
+Name: assets/music/2min_loop_battle_02.ogg
+SHA1-Digest: oka07o0vALQ/yiHsunoBNd7MYbk=
+
+Name: assets/music/2min_loop_battle_03.ogg
+SHA1-Digest: BPUDLhmvHVeDDOzXnK2gqF1swhk=
+
+Name: assets/music/30_sec_music_loop_01.ogg
+SHA1-Digest: xLYpwOKKE4Bjc3Rm6y6yMpQLKE8=
+
+Name: assets/music/60_sec_music_loop_01.ogg
+SHA1-Digest: s1qLyh+L3OFXXoSUr2rQIJLTujY=
+
+Name: assets/music/60secs_training_Arena_01.ogg
+SHA1-Digest: HPF2cY+EfOOLr6nBWG/QCa95lTQ=
+
+Name: assets/music/menu_03.ogg
+SHA1-Digest: wGVHA86iTK5RYu7NhfJoFVERqks=
+
+Name: assets/music/new_menu_01.ogg
+SHA1-Digest: kKGIUkIQ/0e/R58LOEJ9zmLvZ74=
+
+Name: assets/music/scroll_draw_01.ogg
+SHA1-Digest: IIhlpR2kBAHTHzgY7JcI5kRRjoM=
+
+Name: assets/music/scroll_lose_01.ogg
+SHA1-Digest: qerIR28tgelG0mhLcwAZVvEsKlY=
+
+Name: assets/music/scroll_post_jingle_loop_01.ogg
+SHA1-Digest: bcQHFq8F8h29s8lXfEtoPHO2wVQ=
+
+Name: assets/music/scroll_preresult_loop_01.ogg
+SHA1-Digest: WSxYZ4GLgxAo/8ChP6wV/CIrdjs=
+
+Name: assets/music/scroll_win_02.ogg
+SHA1-Digest: wbHgCr7qn4D7umzoiH8VKfmOw84=
+
+Name: assets/music/sudden_death_01.ogg
+SHA1-Digest: KrszNadEaAGSCnglBJl+YWm2zyI=
+
+Name: assets/music/tutorial_2m_arena_forest_amb_01.ogg
+SHA1-Digest: QU6c9FIsha1b4onaS7YpZG3TSk8=
+
+Name: assets/music/wizmen04.ogg
+SHA1-Digest: nUSMOsTIVgQGYc0bsmEMyvUJzqM=
+
+Name: assets/sc/4/building_cannon.sc
+SHA1-Digest: bq0e50XgccaqXoH26Fm7+YnqV5I=
+
+Name: assets/sc/4/building_cannon_tex.sc
+SHA1-Digest: mrCdF5SNIMks0R6tKh7iRpKYw20=
+
+Name: assets/sc/4/building_defences.sc
+SHA1-Digest: 2y3chjPsRzr7vISJXWGCyYW4IVM=
+
+Name: assets/sc/4/building_defences_tex.sc
+SHA1-Digest: S99huLg495y0EKnmIVKXLqh9Buw=
+
+Name: assets/sc/4/building_mega_bomb-xc.sc
+SHA1-Digest: g+IAHDOPlHqQlHLav2Uc+3h0a9U=
+
+Name: assets/sc/4/building_mega_bomb-xc_tex.sc
+SHA1-Digest: 5txTUtJBIGH/PDL8R+9yjQNGCHA=
+
+Name: assets/sc/4/building_mega_bomb.sc
+SHA1-Digest: g+IAHDOPlHqQlHLav2Uc+3h0a9U=
+
+Name: assets/sc/4/building_mega_bomb_tex.sc
+SHA1-Digest: 0RCUsKLK/JT8YuSBWeUpjZjY3sU=
+
+Name: assets/sc/4/building_railgun.sc
+SHA1-Digest: WXtTu3Xr+WWVKBUnuo3tueyelzM=
+
+Name: assets/sc/4/building_railgun_tex.sc
+SHA1-Digest: hJJwcy3m+G+jfNExZ56Dt3zeagU=
+
+Name: assets/sc/4/building_tombstone.sc
+SHA1-Digest: TOL9DrLJiEQ/4TICem1S9Ad3gSA=
+
+Name: assets/sc/4/building_tombstone_highres_tex.sc
+SHA1-Digest: MHRXVWR6+eBNmZuS+G4ztW663bw=
+
+Name: assets/sc/4/building_tower.sc
+SHA1-Digest: LTqSBQw32NiC1iPNzluvQlGSvHY=
+
+Name: assets/sc/4/building_tower_tex.sc
+SHA1-Digest: uvUiBlgV4IG+Q7R8fhoENs+OojE=
+
+Name: assets/sc/4/bx.sc
+SHA1-Digest: DZn6UW8gVgfusezOxK9iL9WcT5U=
+
+Name: assets/sc/4/bx_highres_tex.sc
+SHA1-Digest: aAzdprKuJwHXiisiL7O9o38ZD6Q=
+
+Name: assets/sc/4/characters.sc
+SHA1-Digest: BN9PnP9qHsqYTtQjO6zDVOwjuCY=
+
+Name: assets/sc/4/characters_tex.sc
+SHA1-Digest: clBnJlHRhdEz1HzY4lO/WIje6jU=
+
+Name: assets/sc/4/chr-ptjs.sc
+SHA1-Digest: DZn6UW8gVgfusezOxK9iL9WcT5U=
+
+Name: assets/sc/4/chr-ptjs_highres_tex.sc
+SHA1-Digest: fy567fUIXrlFc+lCRlELK2TTTs0=
+
+Name: assets/sc/4/chr-xcjs.sc
+SHA1-Digest: Hs4wyN1q29xHyrLm3QnLFZxXTzQ=
+
+Name: assets/sc/4/chr-xcjs_highres_tex.sc
+SHA1-Digest: 9xMQA5obNm10Gu2xdildy2vqVj0=
+
+Name: assets/sc/4/chr_APC.sc
+SHA1-Digest: mc3yePPd5Lt4o3+DV0VU6Okf8os=
+
+Name: assets/sc/4/chr_APC_tex.sc
+SHA1-Digest: 3reDvVEg6WvZ7w3IMwXZVdefVPE=
+
+Name: assets/sc/4/chr_Marine_commander.sc
+SHA1-Digest: xXpvzehFKUVogqJ+TwTzC9epT+s=
+
+Name: assets/sc/4/chr_Marine_commander_tex.sc
+SHA1-Digest: /eLe88MAMJYu5nsJqQ7vawk5UFU=
+
+Name: assets/sc/4/chr_boxer-y.sc
+SHA1-Digest: iciShV6SLyr7UblDtVrIbSLIhhg=
+
+Name: assets/sc/4/chr_boxer-y_tex.sc
+SHA1-Digest: 0zS4Iyzd6dZyggsv2jcLT2Q07NE=
+
+Name: assets/sc/4/chr_boxer.sc
+SHA1-Digest: iciShV6SLyr7UblDtVrIbSLIhhg=
+
+Name: assets/sc/4/chr_boxer_tex.sc
+SHA1-Digest: F/iV9g+qFdn0y4waGrEzB5jFjQM=
+
+Name: assets/sc/4/chr_commander_eggtank.sc
+SHA1-Digest: x+AZHN+5HAZlHBq9JrnZGuDea/0=
+
+Name: assets/sc/4/chr_commander_eggtank_tex.sc
+SHA1-Digest: 2SgtSpMjqZLTO12Xg04DV/2Xr98=
+
+Name: assets/sc/4/chr_dino.sc
+SHA1-Digest: n6zFcBotjUa6dho0EYyICCcUZq8=
+
+Name: assets/sc/4/chr_dino_tex.sc
+SHA1-Digest: p03KJvZdQeS0YB8QkzOa63Uk31E=
+
+Name: assets/sc/4/chr_flamethrower.sc
+SHA1-Digest: dOxA+uGozh/BBQeBd2KsOq8uTc0=
+
+Name: assets/sc/4/chr_flamethrower_tex.sc
+SHA1-Digest: 9hJFdULVcohvvBQLS2nFYNZCJyk=
+
+Name: assets/sc/4/chr_gorilla.sc
+SHA1-Digest: Ol3EiHcZ4lTgtxS7Qtc8VjqUuTk=
+
+Name: assets/sc/4/chr_gorilla_tex.sc
+SHA1-Digest: n8H6i4tdFuQsJLMwuRFXgNfuErw=
+
+Name: assets/sc/4/chr_helipod.sc
+SHA1-Digest: 0wLzSL3ujPDTnSz5qgeYiqaaH6s=
+
+Name: assets/sc/4/chr_helipod_tex.sc
+SHA1-Digest: KcUIkzWnz2N4FyWNR6LCLwYbe5I=
+
+Name: assets/sc/4/chr_henchman.sc
+SHA1-Digest: FmJvMKtnpzWua6CO/p8i6UVydnY=
+
+Name: assets/sc/4/chr_henchman_tex.sc
+SHA1-Digest: 4GAgNgFEK8/Jw6txDgROoiS3ByY=
+
+Name: assets/sc/4/chr_hooligan.sc
+SHA1-Digest: 0PEVZ2y8jwF2QETfzL5iQi73mCU=
+
+Name: assets/sc/4/chr_hooligan_tex.sc
+SHA1-Digest: 1p1tj5CoRADIWPSxuwZHVqn6q34=
+
+Name: assets/sc/4/chr_jetpack.sc
+SHA1-Digest: iRxLqKQCLloPPZNa7p7noirFV2s=
+
+Name: assets/sc/4/chr_jetpack_tex.sc
+SHA1-Digest: Mpcjecnm1z5xK1CpaPpUWaDOsPM=
+
+Name: assets/sc/4/chr_laserman.sc
+SHA1-Digest: GaVDsRL05kIRBkJY0vx6ByjqlZQ=
+
+Name: assets/sc/4/chr_laserman_tex.sc
+SHA1-Digest: 9aeWAgF3VW/zhUUGtC/gBUz42uE=
+
+Name: assets/sc/4/chr_lava_hound.sc
+SHA1-Digest: DdmxU+GN6pdosJOj/IGpXka3Rtc=
+
+Name: assets/sc/4/chr_lava_hound_tex.sc
+SHA1-Digest: HZKUtHf5FUgiyOiyN8Qm8MLZlGc=
+
+Name: assets/sc/4/chr_rifleman.sc
+SHA1-Digest: LLh6pjqvgT/uXIl96HCggWkl+Mg=
+
+Name: assets/sc/4/chr_rifleman_tex.sc
+SHA1-Digest: hhSViRHx0IAU19g6RTUAn5olox0=
+
+Name: assets/sc/4/chr_skeleton_warrior.sc
+SHA1-Digest: /HZpRi9QGiljYRmauBnS5rfdBHg=
+
+Name: assets/sc/4/chr_skeleton_warrior_highres_tex.sc
+SHA1-Digest: GEsLp3mErl9540sTUA0W9o0c3BY=
+
+Name: assets/sc/4/chr_tank_med.sc
+SHA1-Digest: tjeQgNS6s2xGaLuRZ//YQeVShJo=
+
+Name: assets/sc/4/chr_tank_med_tex.sc
+SHA1-Digest: dL126sIlpXrn4du2ZkrTxECfxSk=
+
+Name: assets/sc/4/dw.sc
+SHA1-Digest: 9QUNPRMzkTpPRlesr5Wkj9J/M3w=
+
+Name: assets/sc/4/dw_tex.sc
+SHA1-Digest: BsO6avX7H5eSwK4qG1VJiJKEHfE=
+
+Name: assets/sc/4/dwg.sc
+SHA1-Digest: Hs4wyN1q29xHyrLm3QnLFZxXTzQ=
+
+Name: assets/sc/4/dwg_highres_tex.sc
+SHA1-Digest: GyH/uVSNpQQf6pw9egi2JF3cFY8=
+
+Name: assets/sc/4/effects-zl.sc
+SHA1-Digest: zE1FtIpiok0ZvTTAgN9oYxtielc=
+
+Name: assets/sc/4/effects-zl_tex.sc
+SHA1-Digest: Fo2H4cFiv0BjmJ32d3OY1zfxkzs=
+
+Name: assets/sc/4/effects.sc
+SHA1-Digest: 1jGxtbBxI3COFDDijc+ND8Y4wTc=
+
+Name: assets/sc/4/effects_tex.sc
+SHA1-Digest: RDRqxIuSw2gU0edzqIhdQvTuBmI=
+
+Name: assets/sc/4/goku.sc
+SHA1-Digest: gUXCAr7IjujC4CxUfhBE5bM4590=
+
+Name: assets/sc/4/goku_tex.sc
+SHA1-Digest: Ep3TFE8CRj2jAPZakRmeJcJD6Sw=
+
+Name: assets/sc/4/kgdj.sc
+SHA1-Digest: mSoQEvj25E1v5Q8MGoSDWSiqNT4=
+
+Name: assets/sc/4/kgdj_tex.sc
+SHA1-Digest: onplyljTNmNU53DPImHJSdidoys=
+
+Name: assets/sc/4/projectiles.sc
+SHA1-Digest: 9QUNPRMzkTpPRlesr5Wkj9J/M3w=
+
+Name: assets/sc/4/projectiles_tex.sc
+SHA1-Digest: ysrtXIe90xzhqd8iRA8pD5p8CQ0=
+
+Name: assets/sc/4/q.sc
+SHA1-Digest: C1Pq2yJgYTY2pA/2c+9svm8DXrE=
+
+Name: assets/sc/4/q_tex.sc
+SHA1-Digest: e1rzZxYGbRbDIpgYAOss0nTM+pM=
+
+Name: assets/sc/4/tianxing.sc
+SHA1-Digest: C1Pq2yJgYTY2pA/2c+9svm8DXrE=
+
+Name: assets/sc/4/tianxing_tex.sc
+SHA1-Digest: R4rsZfA7oZyTDsHXfglGI8yhrNQ=
+
+Name: assets/sc/4/wd.sc
+SHA1-Digest: 9QUNPRMzkTpPRlesr5Wkj9J/M3w=
+
+Name: assets/sc/4/wd_tex.sc
+SHA1-Digest: 1/G/4vUksNJbAiWr4sxB7MyJpo0=
+
+Name: assets/sc/4/wdss.sc
+SHA1-Digest: C1Pq2yJgYTY2pA/2c+9svm8DXrE=
+
+Name: assets/sc/4/wdss_tex.sc
+SHA1-Digest: u5p28nQJ/llveU/hfhlntizcCWo=
+
+Name: assets/sc/4/zl.sc
+SHA1-Digest: Hs4wyN1q29xHyrLm3QnLFZxXTzQ=
+
+Name: assets/sc/4/zl_highres_tex.sc
+SHA1-Digest: 6MLvHL2PYKWtUrC4n8AmJ1hYp7E=
+
+Name: assets/sc/arena_training.sc
+SHA1-Digest: 1QoXN/6yoYpSfi/85kF5OvVMVWA=
+
+Name: assets/sc/arena_training_duoxian.sc
+SHA1-Digest: 1QoXN/6yoYpSfi/85kF5OvVMVWA=
+
+Name: assets/sc/arena_training_duoxian_tex.sc
+SHA1-Digest: PrPNWM+USRvUERyjGlidxne3JL8=
+
+Name: assets/sc/arena_training_tex.sc
+SHA1-Digest: YUX5IOC3SYtodHcpyEnng1gScdA=
+
+Name: assets/sc/building_elixir_collector.sc
+SHA1-Digest: afQIggt75hVvMQ8a4Gc2TfWczi8=
+
+Name: assets/sc/building_elixir_collector_highres_tex.sc
+SHA1-Digest: zaqyFLk//f6EvbEEFf/58LerZfo=
+
+Name: assets/sc/building_inferno_tower.sc
+SHA1-Digest: xUxArZT8GgoiuGj7qhnHq6D+6j0=
+
+Name: assets/sc/building_inferno_tower_highres_tex.sc
+SHA1-Digest: 1RHVK/WkDs2DT2hZSQDHJxhakt8=
+
+Name: assets/sc/building_tower.sc
+SHA1-Digest: LTqSBQw32NiC1iPNzluvQlGSvHY=
+
+Name: assets/sc/building_tower_tex.sc
+SHA1-Digest: PnGBvRXKTu/6TlGc7rtfRWEu9DU=
+
+Name: assets/sc/building_xbow.sc
+SHA1-Digest: 9q2XmMIpqnkt/e5ofwjdkh8+nqY=
+
+Name: assets/sc/building_xbow_lowres_tex.sc
+SHA1-Digest: BpEGDycSQgCs0/5vUTUEpogi0U8=
+
+Name: assets/sc/chr_archer.sc
+SHA1-Digest: 6wnvEZ7WFQdvy+ycv53Xbn3G5HE=
+
+Name: assets/sc/chr_archer_tex.sc
+SHA1-Digest: n1liZbzGBJ/EEz/NIknVOCPjLLs=
+
+Name: assets/sc/chr_barbarian.sc
+SHA1-Digest: lVgT9ailmIQp3RtDxn0Rcm8i1LM=
+
+Name: assets/sc/chr_barbarian_lowres_tex.sc
+SHA1-Digest: HwW99c9iIBXip7MJ9htCb3c5AYs=
+
+Name: assets/sc/chr_bats.sc
+SHA1-Digest: G1QyuzhDqhXxBxd2rqNDOhS0uoc=
+
+Name: assets/sc/chr_bats_tex.sc
+SHA1-Digest: eFpda/fZipKoQFFuSdqESMW/+1w=
+
+Name: assets/sc/chr_battle_ram.sc
+SHA1-Digest: ExvKhKLiX35HeaIeOg7qrziJ33c=
+
+Name: assets/sc/chr_battle_ram_highres_tex.sc
+SHA1-Digest: iQyqlnRMPfQnyPWfLZPzMb8jvHw=
+
+Name: assets/sc/chr_black_knight.sc
+SHA1-Digest: Z9bsxX2HPXO1oKCix6WzM6vlx4s=
+
+Name: assets/sc/chr_black_knight_highres_tex.sc
+SHA1-Digest: m51XkXRDbR8zFEPVRfGl1dReSqY=
+
+Name: assets/sc/chr_flying_machine.sc
+SHA1-Digest: qbXpG/Ignchb0POd2HNSaO3dw6c=
+
+Name: assets/sc/chr_flying_machine_highres_tex.sc
+SHA1-Digest: vSlotazFW0JJyYjIimCAzF8kSbI=
+
+Name: assets/sc/chr_giant.sc
+SHA1-Digest: 7s+/Cd36zvvpl67B/4soWyFXnOo=
+
+Name: assets/sc/chr_giant_tex.sc
+SHA1-Digest: Zne8wU9aJtNN28hw5pzYOHjEOPk=
+
+Name: assets/sc/chr_goblin.sc
+SHA1-Digest: S6a+CnXbGYsnDyBu34lt0UxNmwg=
+
+Name: assets/sc/chr_goblin_tex.sc
+SHA1-Digest: OltM5CW0NzmOCcOhcO+sgdakNE4=
+
+Name: assets/sc/chr_golem.sc
+SHA1-Digest: kZedX2IQi4TBynAO9AHSTkuzNak=
+
+Name: assets/sc/chr_golem_lowres_tex.sc
+SHA1-Digest: rfHUP3K6z8lyluBLFAtprSCfgvo=
+
+Name: assets/sc/chr_golemite.sc
+SHA1-Digest: 6qS1l+8YAIpb0ZXGTaZWNbhWCF8=
+
+Name: assets/sc/chr_golemite_lowres_tex.sc
+SHA1-Digest: 1eltbW55DTRySmS0ahWh8Wa9xGc=
+
+Name: assets/sc/chr_knight.sc
+SHA1-Digest: 9XneXLgb+2gBaanPQNqhlvC/Sh8=
+
+Name: assets/sc/chr_knight_tex.sc
+SHA1-Digest: 7l/Lx5H2ctVB9298CKegyqeKlJc=
+
+Name: assets/sc/chr_lava_hound.sc
+SHA1-Digest: DdmxU+GN6pdosJOj/IGpXka3Rtc=
+
+Name: assets/sc/chr_lava_hound_tex.sc
+SHA1-Digest: Vzr9belbPQUJd00NDONvp2O80Uo=
+
+Name: assets/sc/chr_lava_pups.sc
+SHA1-Digest: 3MSvkiRuFBlLr+JQKbBNryAQ8qo=
+
+Name: assets/sc/chr_lava_pups_tex.sc
+SHA1-Digest: 3g9i+cqmLjbit7/o/8uFWjshAnU=
+
+Name: assets/sc/chr_mega_knight.sc
+SHA1-Digest: NQKczsIxPqbh7eFCXqzqPDRwYG0=
+
+Name: assets/sc/chr_mega_knight_lowres_tex.sc
+SHA1-Digest: ih8PWPVgeum2XGipBhbAocIACTY=
+
+Name: assets/sc/chr_miner.sc
+SHA1-Digest: 6BxufaoM6534+jkYHFYUhEVw1pc=
+
+Name: assets/sc/chr_miner_tex.sc
+SHA1-Digest: AVtT49mWQm841maq99Xu7oL1yNw=
+
+Name: assets/sc/chr_mini_pekka.sc
+SHA1-Digest: teHiLar8SDv5QKLr8dZr2OTQu8k=
+
+Name: assets/sc/chr_mini_pekka_tex.sc
+SHA1-Digest: icK66wMSzT2y5IOXk8f225vw8s8=
+
+Name: assets/sc/chr_princess-y.sc
+SHA1-Digest: Y7MWrnp0lstIx66/vf0PxUvWzlU=
+
+Name: assets/sc/chr_princess-y_lowres_tex.sc
+SHA1-Digest: LE1JvnJDDJ3YqPuZpOk3vq+LESQ=
+
+Name: assets/sc/chr_princess.sc
+SHA1-Digest: Y7MWrnp0lstIx66/vf0PxUvWzlU=
+
+Name: assets/sc/chr_princess_highres_tex.sc
+SHA1-Digest: Xs9uEcJV+JJTYhyXCzmKYErEnQI=
+
+Name: assets/sc/chr_skeleton.sc
+SHA1-Digest: 3ZF/e1F9J38hYze2VCUNk1W/vtA=
+
+Name: assets/sc/chr_skeleton_tex.sc
+SHA1-Digest: bb1v4wlItXKAe0DWdV4WdIB4JO8=
+
+Name: assets/sc/chr_valkyrie.sc
+SHA1-Digest: qcvl4O7Sae8PbAuVTSSh8LAp11I=
+
+Name: assets/sc/chr_valkyrie_tex.sc
+SHA1-Digest: C55AfB/wY/iZ8JCqUd5ynDYciTY=
+
+Name: assets/sc/chr_zap_machine-jr.sc
+SHA1-Digest: TvGoBX2WyhvLkeIQf8+6DgCX1ss=
+
+Name: assets/sc/chr_zap_machine-jr_tex.sc
+SHA1-Digest: LCZpxKC+Zp1X1FKSeEEbjVC9rGc=
+
+Name: assets/sc/chr_zap_machine.sc
+SHA1-Digest: TvGoBX2WyhvLkeIQf8+6DgCX1ss=
+
+Name: assets/sc/chr_zap_machine_tex.sc
+SHA1-Digest: 2Aqlya5TOSyHF6XyLVkDGjfd9nU=
+
+Name: assets/sc/debug.sc
+SHA1-Digest: C7LYhlG8AMHd2fsKTu7gPAqYeLQ=
+
+Name: assets/sc/debug_tex.sc
+SHA1-Digest: D1qHyb7tzt8BtstdSfmkUXjnGEc=
+
+Name: assets/sc/effects-ptjs.sc
+SHA1-Digest: zE1FtIpiok0ZvTTAgN9oYxtielc=
+
+Name: assets/sc/effects-ptjs_tex.sc
+SHA1-Digest: +KseHdXzJmoDcjOfdRiGTQJ4JnU=
+
+Name: assets/sc/effects-tt.sc
+SHA1-Digest: zE1FtIpiok0ZvTTAgN9oYxtielc=
+
+Name: assets/sc/effects-tt_tex.sc
+SHA1-Digest: BY+VHjY9k6C/FsIRo783vDAUtdA=
+
+Name: assets/sc/effects.sc
+SHA1-Digest: zE1FtIpiok0ZvTTAgN9oYxtielc=
+
+Name: assets/sc/effects_tex.sc
+SHA1-Digest: 0LuWbKF8yrIk1MmYNRCnDKPrp+E=
+
+Name: assets/sc/level_barbarian_arena.sc
+SHA1-Digest: qQ9nnT0i/TgcBmIiJIZ4YPGSDVM=
+
+Name: assets/sc/level_barbarian_arena_tex.sc
+SHA1-Digest: PXEKnXAchzIeOjhxjjYyM4qXyEo=
+
+Name: assets/sc/level_bone_arena.sc
+SHA1-Digest: TmSsTolRz67OdXJ/UeYoeye7sks=
+
+Name: assets/sc/level_bone_arena_tex.sc
+SHA1-Digest: TzRmM6etrrxy9CQJcFNZTSHjqP0=
+
+Name: assets/sc/level_builder_arena.sc
+SHA1-Digest: X3jbfOnLyWiqnlSmE0jNDx6Oqrk=
+
+Name: assets/sc/level_builder_arena_tex.sc
+SHA1-Digest: bRYd6NUWgx5RQYphMLyfRDqYBrs=
+
+Name: assets/sc/level_champion_arena.sc
+SHA1-Digest: W8Pi/Yh+s+V9ZH7U3ZlHUJEdaZM=
+
+Name: assets/sc/level_champion_arena_tex.sc
+SHA1-Digest: 9e38/39Q16j2j1TtpyD07c9OOW0=
+
+Name: assets/sc/level_dark_arena.sc
+SHA1-Digest: Gg3L2Yky0nEP+werqodixlpkzKc=
+
+Name: assets/sc/level_dark_arena_tex.sc
+SHA1-Digest: x87lKmRIoXhtRW0bg9lOg2HhD1M=
+
+Name: assets/sc/level_decos.sc
+SHA1-Digest: QwH9fjDRKfdxvPTv3+j7WQGwg74=
+
+Name: assets/sc/level_decos_tex.sc
+SHA1-Digest: S6Z9YhAzeFpwJPD0sUepDI1zo9I=
+
+Name: assets/sc/level_goblin_arena.sc
+SHA1-Digest: C6XB4/3bhz9szsITY3ayCUdeTiM=
+
+Name: assets/sc/level_goblin_arena_tex.sc
+SHA1-Digest: QVqCMzdrJYW7AXAMiWAO15w5tdo=
+
+Name: assets/sc/level_ice_arena.sc
+SHA1-Digest: KWfREKgAsCLV9yWOQByddtkqmIY=
+
+Name: assets/sc/level_ice_arena_tex.sc
+SHA1-Digest: gB0ahSVZqaiMJnP/+ShKgQiZKSs=
+
+Name: assets/sc/level_jungle_arena.sc
+SHA1-Digest: tCKhO7PXLvCHgp4hItyAik1K51g=
+
+Name: assets/sc/level_jungle_arena_tex.sc
+SHA1-Digest: e3vItGgjgSQNQX572iRgmPxeWWk=
+
+Name: assets/sc/level_legendary_arena.sc
+SHA1-Digest: SZ8Ne+Q4mW3qOwI69Gnmet97MWQ=
+
+Name: assets/sc/level_legendary_arena_tex.sc
+SHA1-Digest: d7lBPeeiDH2AyEYYaLTfrfDpjqI=
+
+Name: assets/sc/level_royal_arena.sc
+SHA1-Digest: +IOth6CW5RC+JIQ7GsTTtYape4g=
+
+Name: assets/sc/level_royal_arena_tex.sc
+SHA1-Digest: GgNyvFAAnSids5fEtiGzIPd+IGI=
+
+Name: assets/sc/level_spell_arena.sc
+SHA1-Digest: Dj5LmXv6V1kAXaTAfWdFopzmMAw=
+
+Name: assets/sc/level_spell_arena_tex.sc
+SHA1-Digest: 0fH2MSnaORy3QUZeWbc3pyXo9iE=
+
+Name: assets/sc/loading.sc
+SHA1-Digest: z64zAiJADMB2A0oSyEgwv/PsOK8=
+
+Name: assets/sc/loading_tex.sc
+SHA1-Digest: JSzq7q27EBZ72SSwejizsx4Fjrk=
+
+Name: assets/sc/spell_goblin_barrel.sc
+SHA1-Digest: JyUDu3ZQnb/c/r6no1JqjarhwKo=
+
+Name: assets/sc/spell_goblin_barrel_tex.sc
+SHA1-Digest: OwvgjTilZzWD1pNb0dvn8rcCJew=
+
+Name: assets/sc/tutorial.sc
+SHA1-Digest: vEWKsW2VFJITn5rCoZfo6PHSW2Q=
+
+Name: assets/sc/tutorial_tex.sc
+SHA1-Digest: anQL3I+T5EXu+52ohmZa3QrdGCY=
+
+Name: assets/sc/ui.sc
+SHA1-Digest: IioLg4e8PHwrO7RmSHiWOPb/Gk4=
+
+Name: assets/sc/ui_arena.sc
+SHA1-Digest: wKXj9Ph0gJLOtdfXB8ppMXf/BFg=
+
+Name: assets/sc/ui_arena_tex.sc
+SHA1-Digest: 2gr0plgGPZAGOz3vRQ5IDt1IHMU=
+
+Name: assets/sc/ui_battle_end.sc
+SHA1-Digest: rvQZgahfDvT19WmSsXnrdN04f/g=
+
+Name: assets/sc/ui_battle_end_tex.sc
+SHA1-Digest: /t2azTBj1d6F2n2vFG3Qha+Fb3M=
+
+Name: assets/sc/ui_chest.sc
+SHA1-Digest: IMrfcHI6R+JjIQd0PhTYkc2HoOQ=
+
+Name: assets/sc/ui_chest_tex.sc
+SHA1-Digest: 2icuehFyTb6PlBAOEKq48tB7fQg=
+
+Name: assets/sc/ui_spells.sc
+SHA1-Digest: LzBzEunZmoxAXX1BF3FDXnJoArY=
+
+Name: assets/sc/ui_spells_tex.sc
+SHA1-Digest: k/c0MLMjN4OZEvlITrB/C88MX/k=
+
+Name: assets/sc/ui_tex.sc
+SHA1-Digest: 49DuVB+ll+M7XqaJVAdFjzY9IeQ=
+
+Name: assets/sfx/10_cd_02.wav
+SHA1-Digest: 8SW1K0KE+dlATQkKi5P/rs8+Q/Q=
+
+Name: assets/sfx/1_cd_02.wav
+SHA1-Digest: m/B+bCJ/MAToRDd7ezBxVJ+DYQw=
+
+Name: assets/sfx/1st_crown_01.wav
+SHA1-Digest: DeYiazpzP/eB/5dXI2Njp5YEN20=
+
+Name: assets/sfx/2_cd_02.wav
+SHA1-Digest: 68pyMkkWy0FKCyL4YpxR1ScHb2E=
+
+Name: assets/sfx/2nd_crown_01.wav
+SHA1-Digest: eW9EQ5Y0j+5pYPekPPAOJOcfCuw=
+
+Name: assets/sfx/2v2_matchmake_01.wav
+SHA1-Digest: qEjX1gtCOzt7Dsym42jvk4bJ+2w=
+
+Name: assets/sfx/2v2_matchmake_02.wav
+SHA1-Digest: 0dhD1k0PSZXITg0vSLOsfKjzyUE=
+
+Name: assets/sfx/2v2_matchmake_03.wav
+SHA1-Digest: poONBnRMEGSXz/igfKj+vGo712Q=
+
+Name: assets/sfx/2v2_matchmake_04.wav
+SHA1-Digest: qQZcwQsbglhusM0pK/QHhOusp18=
+
+Name: assets/sfx/3_cd_02.wav
+SHA1-Digest: KjzZlrTfZ01wuE7MYn5aM7nKRSg=
+
+Name: assets/sfx/3rd_crown_01.wav
+SHA1-Digest: SBblM8RPJGIvyCcSNfU1epXCswI=
+
+Name: assets/sfx/4_cd_02.wav
+SHA1-Digest: AAgipQ8CFEVldiwHJEtPn7NNBfw=
+
+Name: assets/sfx/5_cd_02.wav
+SHA1-Digest: Pxu7c14hq8sRMDdF96C73ZGrqWw=
+
+Name: assets/sfx/60_sec_warn_02_v2.wav
+SHA1-Digest: kHm7J8oQr64hyg9NgTntiOkaAEc=
+
+Name: assets/sfx/6_cd_02.wav
+SHA1-Digest: Bdb7++PDAmmUfu5UrLIvrh2a8YE=
+
+Name: assets/sfx/7_cd_02.wav
+SHA1-Digest: 3TXD6zEeoreos/ETEBL4KI2VAgQ=
+
+Name: assets/sfx/8_cd_02.wav
+SHA1-Digest: dKwODr4Nfe9el1aS5HMkb1lsSVE=
+
+Name: assets/sfx/9_cd_02.wav
+SHA1-Digest: PeEDHqftHknGL8u8yfOL3K+oGeQ=
+
+Name: assets/sfx/achievement_unlock_01.wav
+SHA1-Digest: dFfDqABSVMUQXmg823ev2vjcceA=
+
+Name: assets/sfx/archer_attack_07.wav
+SHA1-Digest: +C7pQc041n468SXMJdbJMJbYmWs=
+
+Name: assets/sfx/archer_queen_attack_02.wav
+SHA1-Digest: +rgRWP4fwFP8K9ieGUSqyCHfVvs=
+
+Name: assets/sfx/archer_step_06.wav
+SHA1-Digest: hmirWji6xjP1P4Nc59hoIjgA5nM=
+
+Name: assets/sfx/archer_tower_fire_05.wav
+SHA1-Digest: rPIhr+/DEXVgpjTPnERPc4MwThk=
+
+Name: assets/sfx/arctic_arena_jingle_01.wav
+SHA1-Digest: zkcRkxlWL57ivASn5uEvvPw+HWc=
+
+Name: assets/sfx/arrow_hit_13.wav
+SHA1-Digest: AkfKZmYDkKFpkq0aNoc58+TDtmE=
+
+Name: assets/sfx/arrow_norm_impact_06.wav
+SHA1-Digest: CCV6JNfpMdmszUSow7M5e/fbOUE=
+
+Name: assets/sfx/attack_button_01.wav
+SHA1-Digest: OwPGmyF9TqElSQwRMGDmCes7+Ag=
+
+Name: assets/sfx/axe_impact_01.wav
+SHA1-Digest: aH1r9ryTJQxsLxWyglBReWuK6lk=
+
+Name: assets/sfx/axeswing_01.wav
+SHA1-Digest: qOmnF38v6gbep5NQ5z6SN7Vr40o=
+
+Name: assets/sfx/b_knight_atk_01.wav
+SHA1-Digest: U1WaW32yJeUAIUgNB7rbW5ec1xY=
+
+Name: assets/sfx/b_knight_atk_02.wav
+SHA1-Digest: VaMOp/m7MrzoN28A9RCqrg1f4qk=
+
+Name: assets/sfx/b_knight_atk_03.wav
+SHA1-Digest: Girzbu+i9EP+7A2NwYmdZXS2s9U=
+
+Name: assets/sfx/b_knight_atk_04.wav
+SHA1-Digest: 1IjIFKN8pWoo7UrDFNynsEQth9o=
+
+Name: assets/sfx/b_knight_atk_charge_01.wav
+SHA1-Digest: GsJ4uBcpQrZi7+Qkp7zdL6sH8ew=
+
+Name: assets/sfx/b_knight_atk_charge_02.wav
+SHA1-Digest: e9zZIo7hQYYoW1Uqn5Vc6qEju/8=
+
+Name: assets/sfx/b_knight_deploy_01.wav
+SHA1-Digest: Q8fRsbwpQEHO/gs82QmBB5iS8Io=
+
+Name: assets/sfx/b_knight_deploy_02.wav
+SHA1-Digest: o4JzlfFirUknloJe9fpzfReapec=
+
+Name: assets/sfx/b_knight_deploy_03.wav
+SHA1-Digest: grx/v5rEApuJEHsYOhbuGtgAU3o=
+
+Name: assets/sfx/baby_dragon_deploy_end_11.wav
+SHA1-Digest: thx9ZC6QBRT6mk7AYe/rz8/73/A=
+
+Name: assets/sfx/baby_dragon_fireball_08.wav
+SHA1-Digest: pObnEoUKXpqt4NZrNzsx1mMhVyE=
+
+Name: assets/sfx/babydragon_deploy_01.wav
+SHA1-Digest: e3wFowno3n7Z68v5AB5jAOzb5hU=
+
+Name: assets/sfx/babydragon_wing_01.wav
+SHA1-Digest: QOm+PjClafEkygGFNthIRwbtBug=
+
+Name: assets/sfx/bad_drop_03.wav
+SHA1-Digest: GlAvD2TzkKqpEeDT65oUDndCOXY=
+
+Name: assets/sfx/balloon_fly_loop_01.wav
+SHA1-Digest: fRRLiDAxTkN8H+1UBscov79Pd3o=
+
+Name: assets/sfx/bandit_atk_vo_01.wav
+SHA1-Digest: lGFBrKBD7Pa9QklOlnPfa1chc8k=
+
+Name: assets/sfx/bandit_atk_vo_02.wav
+SHA1-Digest: uLbElgONDABJotCcF/NhNY/WkTY=
+
+Name: assets/sfx/bandit_bat_hit_01.wav
+SHA1-Digest: DT8iZfcGGT3O3oWAG6woiT61jP0=
+
+Name: assets/sfx/bandit_dash_03.wav
+SHA1-Digest: o/It0+c9O4/hH9bc2HwY1DV7jyE=
+
+Name: assets/sfx/bandit_deploy_01.wav
+SHA1-Digest: ov05+e1TJqbG0QLkQ411m1LELZk=
+
+Name: assets/sfx/bandit_slam_01.wav
+SHA1-Digest: qqOyBg4+82yrxRbykZIFyd2C6Pg=
+
+Name: assets/sfx/bandit_sneaky_laugh_05.wav
+SHA1-Digest: 4SA0+KShPshy5UOpVpFtX9R6rLw=
+
+Name: assets/sfx/bandit_step_01.wav
+SHA1-Digest: 6ZD0PSi0GrOL/FUh9pp9CPoC9cE=
+
+Name: assets/sfx/barb_footstep_01.wav
+SHA1-Digest: es0YjYpyh4P6/7oyTH2dB/SMuaU=
+
+Name: assets/sfx/barb_footstep_02.wav
+SHA1-Digest: u6u/T5Mbf4W6aKe4d58Lu+X4cXA=
+
+Name: assets/sfx/barb_footstep_03_no_vo.wav
+SHA1-Digest: KxQn2w76xrGQY2qDBImOhltG7Jc=
+
+Name: assets/sfx/barb_footstep_04.wav
+SHA1-Digest: EIIPY7O4f2nIHW7xAu/8u2KG3A8=
+
+Name: assets/sfx/barb_footstep_05.wav
+SHA1-Digest: /mOwNFigFhyURw3jXGiKlfOJBmc=
+
+Name: assets/sfx/barb_footstep_06.wav
+SHA1-Digest: 067m/9xQkQV/jQEeyO+WJzj/c6o=
+
+Name: assets/sfx/barbarian_attack_02.wav
+SHA1-Digest: ZQ84/07bR/FUGgvLDW86EsqlMhw=
+
+Name: assets/sfx/barbarian_attack_03.wav
+SHA1-Digest: l1cGLca70sUo+RmJEzQ+VbhLq2I=
+
+Name: assets/sfx/barbarian_attack_04.wav
+SHA1-Digest: IhWwu6QDCAqc1r3YlEAK56hDf8g=
+
+Name: assets/sfx/barbarian_attack_05.wav
+SHA1-Digest: VCKVFYavQntg+6QVRYnVElHvWNc=
+
+Name: assets/sfx/barbarian_attack_06.wav
+SHA1-Digest: 2q/xFvI+8zzWkeFUfXtMKhwS/lg=
+
+Name: assets/sfx/barbarian_attack_07.wav
+SHA1-Digest: 1BZsHNGbOmUmbv8F0Zep/v7JYh8=
+
+Name: assets/sfx/barbarian_attack_08.wav
+SHA1-Digest: fJfj2p3RGQosdI69eQ3oOz5r01I=
+
+Name: assets/sfx/barbarian_jingle_01.wav
+SHA1-Digest: Il6ODSkIbg62pjE/oTh0fEO5HZc=
+
+Name: assets/sfx/barrel_drawback_14.wav
+SHA1-Digest: ZPumsjfPrqQZXXL3M1TK0i1eH48=
+
+Name: assets/sfx/barrel_explosion_02.wav
+SHA1-Digest: YZdu2td5/rBU5l78QNveWBe4vjA=
+
+Name: assets/sfx/bat_atk_01.wav
+SHA1-Digest: De0n8pktke+1bYGgP3hdSdI5NFI=
+
+Name: assets/sfx/bat_deploy_01.wav
+SHA1-Digest: 4MXbpifv+FPBvfQ4R1TDnNNNVxU=
+
+Name: assets/sfx/bat_fly_01.wav
+SHA1-Digest: SINV6Lzz9lhKV07o1rLZHfYXtJ4=
+
+Name: assets/sfx/battleram_charge_01.wav
+SHA1-Digest: AD+HfuUsjhiGHBwuyu6DyslVbp4=
+
+Name: assets/sfx/battleram_deploy_01.wav
+SHA1-Digest: ieA7Lru7L0OuBENTH0ufORp9RqQ=
+
+Name: assets/sfx/big_horn_end_02_v2.wav
+SHA1-Digest: 0k/0mvg+C3cX/WnQZwhuN9YEtII=
+
+Name: assets/sfx/big_horn_start_02_v2.wav
+SHA1-Digest: z0AJ6jG5HkkdZy6Cukbm8pZakDQ=
+
+Name: assets/sfx/big_skeleton_hit_01.wav
+SHA1-Digest: 5eZ/6s1GcLyWDxBdz4hHpi2VNUA=
+
+Name: assets/sfx/big_skeleton_summon_01.wav
+SHA1-Digest: +13lcW7rRTBT3BfvdGnRGEOngqI=
+
+Name: assets/sfx/big_skeleton_walk_05.wav
+SHA1-Digest: Tffh94CNw3weLTD319HttMLO2UE=
+
+Name: assets/sfx/blowdart_deploy_01.wav
+SHA1-Digest: xrhEPtCuDTZPqIoyFPFYiKkLZG0=
+
+Name: assets/sfx/blowdart_gob_jump_01.wav
+SHA1-Digest: O6uN1sa2s4QA+GWUMpwK5LoeMRI=
+
+Name: assets/sfx/blowdart_goblin_atk_02.wav
+SHA1-Digest: VnEF3QkNlDYKcGMpXSXHOrZZmpM=
+
+Name: assets/sfx/blowdart_hit_01.wav
+SHA1-Digest: TexYN0PAFyWeQIXoaUSQJrco+ZU=
+
+Name: assets/sfx/blu_walk_01.wav
+SHA1-Digest: qf7R9ff1pkF08vZCe7X4NUcQHFw=
+
+Name: assets/sfx/blu_walk_03.wav
+SHA1-Digest: YupdwM7WLgJcYFXQvn1C4RM4ZME=
+
+Name: assets/sfx/board_slide_in_01.wav
+SHA1-Digest: nPhvXDmZKLJLMt4xEFnd3tagiME=
+
+Name: assets/sfx/bomb_drop_01.wav
+SHA1-Digest: XDC2X7Xtqn6NVVH/zIHOlV4QyE4=
+
+Name: assets/sfx/bomb_skeleton_01v3.wav
+SHA1-Digest: xzghNkDhKJdNlHnoop5z6hm90sA=
+
+Name: assets/sfx/bomb_skeleton_atk_04.wav
+SHA1-Digest: VaIFoIx71QHrQP1klP0VZFA8d88=
+
+Name: assets/sfx/bone_pit_arena_jingle_01.wav
+SHA1-Digest: J47oZ2ChQCULziFD0ehcHURzibc=
+
+Name: assets/sfx/bonus_1.wav
+SHA1-Digest: /VY13ORNvT0zgFmlXpQxYtbvTVA=
+
+Name: assets/sfx/bonus_2.wav
+SHA1-Digest: kUj6bGLUOf0KcVGEwkmvx/j5x7E=
+
+Name: assets/sfx/bonus_3.wav
+SHA1-Digest: jHB4beEIIanpiDLTWtnZpVNI1rM=
+
+Name: assets/sfx/bonus_4.wav
+SHA1-Digest: j+qbg0Vz5IxNf1OE9Z9u9w4CgN4=
+
+Name: assets/sfx/boulder_impact_01.wav
+SHA1-Digest: Y+1qOkIbUlvg5mrBpXfNNH5pFr0=
+
+Name: assets/sfx/bowl_atk_01.wav
+SHA1-Digest: yUHQf3hcUIt0vVzCQeO5ShYclYU=
+
+Name: assets/sfx/bowl_atk_02.wav
+SHA1-Digest: 42zh2swMwYu8ngLaBlgs2WyFI/w=
+
+Name: assets/sfx/bowl_atk_03.wav
+SHA1-Digest: WfQNCjeXi87VNRcanYdxTG3zf4o=
+
+Name: assets/sfx/bowl_atk_04.wav
+SHA1-Digest: Vz1TLZAXIsgbpoieTpXRzPDVo/c=
+
+Name: assets/sfx/bowl_atk_05.wav
+SHA1-Digest: 94tf55Q18IK5pGyNuRTjBEZXHUo=
+
+Name: assets/sfx/bowler_deploy_vo_01.wav
+SHA1-Digest: c9iBFtmyP3Q7HvdKhYdC1thfPb4=
+
+Name: assets/sfx/bowler_step_01v2.wav
+SHA1-Digest: Xd9CqMa422cqaD/vo8joTwdp1Og=
+
+Name: assets/sfx/builder_arena_new_01.wav
+SHA1-Digest: kiffT4R51ApUIb07k3QQnQi6KGQ=
+
+Name: assets/sfx/building_destroyed_05.wav
+SHA1-Digest: rTySl9zPQa6dKBjo8VGUvxFfdF8=
+
+Name: assets/sfx/building_explode_01.wav
+SHA1-Digest: LsbqNaasvV45GyMc9zzetKcNMe8=
+
+Name: assets/sfx/building_place_01.wav
+SHA1-Digest: dbNx7iNDmTb06G6tzuYQugYDEIQ=
+
+Name: assets/sfx/button_click_02.wav
+SHA1-Digest: Os1xuPVHMe3+l9+RIQtYV2kInAc=
+
+Name: assets/sfx/buy_common_card_01.wav
+SHA1-Digest: G7+PPmzx/H3K4SQhRwImbhCOn10=
+
+Name: assets/sfx/buy_epic_card_02.wav
+SHA1-Digest: qkF4XqI5dAt8FRyxyW7sHljLHqs=
+
+Name: assets/sfx/buy_gems_02.wav
+SHA1-Digest: x9tpDDY4VL/z2CFiOWd0+J7JfXw=
+
+Name: assets/sfx/buy_legnedary_card_01.wav
+SHA1-Digest: L+csjFpOxKLzc+BGLLHjSKp/lQE=
+
+Name: assets/sfx/buy_rare_card_01.wav
+SHA1-Digest: ymCfEwIg9hQ7TRRfs4opJwtJZug=
+
+Name: assets/sfx/cannon_deploy_01.wav
+SHA1-Digest: dmlIB8C2PcIqP+y0zjBTY2vpZ0Q=
+
+Name: assets/sfx/cannon_fire_03.wav
+SHA1-Digest: EiIzXgAVXHASiVn8oaMXITtZMgE=
+
+Name: assets/sfx/card_fly_in_06.wav
+SHA1-Digest: KJGS0FNZP5/ApQEqAEESscx27Zg=
+
+Name: assets/sfx/card_ready_02.wav
+SHA1-Digest: 1MTiJkQcQAiRev+JZB8z2gP+zWc=
+
+Name: assets/sfx/card_upgrade_counter_01.wav
+SHA1-Digest: opMaIojtC6e9LXWArzhBn3wafiA=
+
+Name: assets/sfx/card_upgrade_hit_01.wav
+SHA1-Digest: W7sUD4QXv4GIetEz1K4lKGmoB5U=
+
+Name: assets/sfx/card_upgrade_stat_05.wav
+SHA1-Digest: O1Ztpl8FflLMrBslhKjdLuhAbsg=
+
+Name: assets/sfx/cemetary_deploy_01.wav
+SHA1-Digest: z4aC7SGNn+oIy9MFqtlCgx7k9gc=
+
+Name: assets/sfx/champions_chest_land_open_01.wav
+SHA1-Digest: LWtK9GFPOomzxpFCWg4lWh8dGiM=
+
+Name: assets/sfx/champions_chest_tap_01.wav
+SHA1-Digest: BHKz5Og3tX4XkbzDs5y9k3FcsQk=
+
+Name: assets/sfx/chest_fly_01.wav
+SHA1-Digest: 32Xe0Y2mfFcZHa4kkrU0vBnW+iA=
+
+Name: assets/sfx/chest_land_02.wav
+SHA1-Digest: kw52AGnLRa5E5SIZvRXrX1PvqmI=
+
+Name: assets/sfx/chest_loop_02.wav
+SHA1-Digest: YN0gJKk9b4briQRdVufN3E/uwhI=
+
+Name: assets/sfx/claim_achievement_01.wav
+SHA1-Digest: I2J7MX6Ac1gAoRcYtV7bFlhJXd8=
+
+Name: assets/sfx/clash_archer_deploy_01.wav
+SHA1-Digest: ghP9FifrgsFO6JVXzR4mpcrvKwY=
+
+Name: assets/sfx/clone_spell_01.wav
+SHA1-Digest: SUbNf73qc4M0gkmI46f/LUQh5HY=
+
+Name: assets/sfx/count_cards_01.wav
+SHA1-Digest: BphB0ResPvrpbtYYY910ijDA9JM=
+
+Name: assets/sfx/count_gems_01.wav
+SHA1-Digest: 3/oEBosrDOAclEHdcDi+h1e04NY=
+
+Name: assets/sfx/count_gold_01.wav
+SHA1-Digest: hZlG7hNnrHTcr5KieZk4Lcc6yYw=
+
+Name: assets/sfx/crown_appear_03.wav
+SHA1-Digest: 97ZQdOKJcqLV9QxluZA3GNWtLSU=
+
+Name: assets/sfx/dark_arena_jingle_02.wav
+SHA1-Digest: fnwXgkE/bHi3eybG0MbmI7yvOVU=
+
+Name: assets/sfx/dark_prince_atk_01.wav
+SHA1-Digest: /4NTSSwVmogrAqS+FUFskWrmx/0=
+
+Name: assets/sfx/dark_prince_atk_hit_01.wav
+SHA1-Digest: 8I8rXO9n4HpBUKsom6v4KydYysU=
+
+Name: assets/sfx/dark_prince_charge_jing_02.wav
+SHA1-Digest: M55QR7G40lFdg1MLVaxS3E5m24c=
+
+Name: assets/sfx/dark_prince_death_01.wav
+SHA1-Digest: YgrDb7v4R4RqzoLbeMbDJY60dI0=
+
+Name: assets/sfx/dark_prince_deploy_01.wav
+SHA1-Digest: IQHTIF5Y7w0zSzc4Le/bQFxnQqg=
+
+Name: assets/sfx/dark_prince_shield_01.wav
+SHA1-Digest: g6eVVORsOkyyH0W4c3FFyxxb8Us=
+
+Name: assets/sfx/dark_prince_shield_lost_01.wav
+SHA1-Digest: l2uLlcfjoElOVOhUEz1MJbRQjqg=
+
+Name: assets/sfx/dark_prince_step_01.wav
+SHA1-Digest: jNUgNf3+iP6s+GNXzqF0eHmKagQ=
+
+Name: assets/sfx/demon_step_01.wav
+SHA1-Digest: RLDJz5nIbsdSPtTinVYdnG3xjyM=
+
+Name: assets/sfx/deploy_balloon_06.wav
+SHA1-Digest: t7gEAPO170OT/GVGsPWyybyRkGU=
+
+Name: assets/sfx/deploy_barbarians_01.wav
+SHA1-Digest: 9+6AiG3m2Kisb8Rx8lGq8NLFNJo=
+
+Name: assets/sfx/deploy_executioner_01.wav
+SHA1-Digest: 8pGG4BOsERdjWQpNu8FgmWvDDG0=
+
+Name: assets/sfx/deploy_ice_golem_01.wav
+SHA1-Digest: o4HE9NKVw81nSvQqja3AyeSFYCY=
+
+Name: assets/sfx/deploy_lava_hound_02.wav
+SHA1-Digest: c3mfJ2V1Yj++j2SdcGUQD68Vmvg=
+
+Name: assets/sfx/deploy_skeleton_01.wav
+SHA1-Digest: dNWZdW86Tht/s7BOFE51190akYs=
+
+Name: assets/sfx/deploy_timer_ding_03.wav
+SHA1-Digest: RsFrBjF3XIIHIdWzZcIxfL+pb+Q=
+
+Name: assets/sfx/deploy_timer_tick_01v4.wav
+SHA1-Digest: 6d54FiX5AdC5C07T9ATXdSVDAfg=
+
+Name: assets/sfx/deploy_wizard_01.wav
+SHA1-Digest: 8eUkzXBsvkvy1x6viv810x8IfSU=
+
+Name: assets/sfx/donate_01.wav
+SHA1-Digest: hMGt8LySjaw9O97gmFj13rf61tM=
+
+Name: assets/sfx/drop_bomb_03.wav
+SHA1-Digest: bqymy2Pb73mQA5yqWa68H5CMtiU=
+
+Name: assets/sfx/dummy_01.wav
+SHA1-Digest: +9moY8TeGSYcWNP9XyJ00uW8SiY=
+
+Name: assets/sfx/dw_atk_01.wav
+SHA1-Digest: PyAn3TO0EjnVne1r/J+2zjpnoNU=
+
+Name: assets/sfx/dw_deploy_01.wav
+SHA1-Digest: r3jtJXmrUjW1OtlGhSDKr9W9gEA=
+
+Name: assets/sfx/electro_wiz_atk_01.wav
+SHA1-Digest: OIG7mHBv+FmA+5G50qDDlWRflKU=
+
+Name: assets/sfx/electro_wiz_atk_02.wav
+SHA1-Digest: CFyJzEZdSFPe8/CA3++l87fJSUw=
+
+Name: assets/sfx/electro_wiz_atk_03.wav
+SHA1-Digest: 7fHmn0qiJh4V4ThDgtWDr4ZURKc=
+
+Name: assets/sfx/electro_wiz_atk_04.wav
+SHA1-Digest: PxFZxrFgsLb76fM6Xr6GWhuvwBc=
+
+Name: assets/sfx/electro_wiz_atk_05.wav
+SHA1-Digest: VrxXTtk4HYURGkEnELGnlKKHq58=
+
+Name: assets/sfx/electro_wiz_deploy_01.wav
+SHA1-Digest: WOnf8bSSs8MCtSQcru1dbvzK/xw=
+
+Name: assets/sfx/elite_barbs_deploy_01.wav
+SHA1-Digest: lf/OXirIc7r7HK5NVBazuwju5Qo=
+
+Name: assets/sfx/elixir_collector_place_02.wav
+SHA1-Digest: TecLc053iPobs1sWxLEmyv9lWiU=
+
+Name: assets/sfx/end_card_count_01.wav
+SHA1-Digest: va893WS85yka7rS+xIkMiPlZTR8=
+
+Name: assets/sfx/enemy_deploy_timer_ding_04.wav
+SHA1-Digest: KKhSB1aIyMui3pwlkjZ8U1www3M=
+
+Name: assets/sfx/enemy_deploy_timer_tick_01.wav
+SHA1-Digest: D6erVsulS811WalDfdws59x8QWM=
+
+Name: assets/sfx/enemy_summon_01.wav
+SHA1-Digest: wk9i9PP0/RKxg9ThEYylfA38QZY=
+
+Name: assets/sfx/enemy_tower_attacked_03.wav
+SHA1-Digest: o2W03pOvxWW9OVKXWNGTFINtS4g=
+
+Name: assets/sfx/executioner_atk_01.wav
+SHA1-Digest: zIZPc/YHbuXiodQMefl20lPd8CA=
+
+Name: assets/sfx/executioner_footstep_01.wav
+SHA1-Digest: hLv72ux2frjklVL9QglAcbEe7qI=
+
+Name: assets/sfx/explosion_01.wav
+SHA1-Digest: zikDc1t5N9sEj4Eo8jonl04LI6Y=
+
+Name: assets/sfx/extratime_jingle_02.wav
+SHA1-Digest: 468VadPyqRf8k+cNXXk65Nu8qY0=
+
+Name: assets/sfx/fire_ball_02.wav
+SHA1-Digest: 0upQgxR0VlxrL3l2h3tbvKZ+bQs=
+
+Name: assets/sfx/fire_ball_explo_02.wav
+SHA1-Digest: krlzlpkBI4HWoE/MueCsOF9KAnE=
+
+Name: assets/sfx/fire_hut_place_01.wav
+SHA1-Digest: jVVmAVxODP1eZNOJeNzfVABgCQA=
+
+Name: assets/sfx/fire_spirit_attack_01.wav
+SHA1-Digest: 4wknWzuJ1YLQIr18LOSi/iSwDLA=
+
+Name: assets/sfx/fire_spirit_deploy_01.wav
+SHA1-Digest: 2EirKnQb1yiQzoAEnoC44OSHT+c=
+
+Name: assets/sfx/fire_spirit_deploy_02.wav
+SHA1-Digest: YfNMrWScFy+kwboLBAreRCmBwlE=
+
+Name: assets/sfx/fire_spirit_step_sfx_01.wav
+SHA1-Digest: YIvp47pFncDfZ5QGHs2sbJsOBPg=
+
+Name: assets/sfx/fire_spirit_step_vo_01.wav
+SHA1-Digest: 0AOBokJO16GmffJKGGJ+VaDvT0c=
+
+Name: assets/sfx/fire_spirit_step_vo_02.wav
+SHA1-Digest: NYsIe4gbKVIQDCqOAqknCxM9zEo=
+
+Name: assets/sfx/fire_spirit_step_vo_03.wav
+SHA1-Digest: 1UwHQ2XzJpfQ1NLaqg6ZNikaLlk=
+
+Name: assets/sfx/fireball_hit_01.wav
+SHA1-Digest: 07W6F5S/HrBrCdFt+PPsCOc1VUQ=
+
+Name: assets/sfx/flamearch_step_01.wav
+SHA1-Digest: oSq09PJYHARqthZRGY/wGrKDclQ=
+
+Name: assets/sfx/flying_machine_loop_01.wav
+SHA1-Digest: PfTtXTB/wntWP6A/iDh8I3ZkE4c=
+
+Name: assets/sfx/footman_attack_hit_01.wav
+SHA1-Digest: Mk6fGscAjk8oiE4cOyBNGMXCBAA=
+
+Name: assets/sfx/footman_attack_hit_02.wav
+SHA1-Digest: gHc1DDVXraE2+1Yv1lkus2uD7f8=
+
+Name: assets/sfx/footman_attack_hit_03.wav
+SHA1-Digest: o68QMm3dAfxeZq4bc3pGNfVaLRQ=
+
+Name: assets/sfx/footman_attack_hit_04.wav
+SHA1-Digest: bdsB9n9roYLyOJdYSWDSKMYkkns=
+
+Name: assets/sfx/freeze_04.wav
+SHA1-Digest: RRQaZmfc4kdvCvDfw8AGo0Vw+gw=
+
+Name: assets/sfx/get_bonus_card_01.wav
+SHA1-Digest: QPDYl1pKjOkaNwsx0X28sjBIMK0=
+
+Name: assets/sfx/get_card_comon_01.wav
+SHA1-Digest: IyL9MAWaig3t4mAdvKQUCE5SBMM=
+
+Name: assets/sfx/get_card_gems_01.wav
+SHA1-Digest: ut/ds5xTeCO9YJ/NhATkZ+Byxtk=
+
+Name: assets/sfx/get_card_gold_01.wav
+SHA1-Digest: Wghcu9SQU0DDEhDsTfGKKRfNMRs=
+
+Name: assets/sfx/get_card_rare_01.wav
+SHA1-Digest: bKd+wxRYurHjdVDuMwVjwmW8X7c=
+
+Name: assets/sfx/get_chest_card_overview_01.wav
+SHA1-Digest: 3eYiRbDdPTvwqUmRLJP6a9ChV7E=
+
+Name: assets/sfx/get_crown_03.wav
+SHA1-Digest: E7FitoZctmUBynKFmUDjP8D0nH8=
+
+Name: assets/sfx/get_diamonds_01.wav
+SHA1-Digest: 076SY1TwT3fdWJo+YzLt8S0DSKE=
+
+Name: assets/sfx/get_elixir_02.wav
+SHA1-Digest: ZdkW07l44U+fY7oecrnCEtAKvWo=
+
+Name: assets/sfx/get_epic_rare_01.wav
+SHA1-Digest: DniKkd1y/bUjjqiFqEmSB0XHCp8=
+
+Name: assets/sfx/get_gold_04.wav
+SHA1-Digest: +eZ5wE9Xv+gO2L/FltHt6q+g9RA=
+
+Name: assets/sfx/get_legendary_card_01.wav
+SHA1-Digest: 9Qv4QS1RzZG7iNh2pxP7/Bx8LS0=
+
+Name: assets/sfx/get_mana_01.wav
+SHA1-Digest: 1BXosDX4PZ4S3OGlRaaRfA+r+OE=
+
+Name: assets/sfx/get_star_equence_01_v2.wav
+SHA1-Digest: aW5Q+x1+xFzBZ71sacBlSzyGico=
+
+Name: assets/sfx/get_star_equence_01boo.wav
+SHA1-Digest: bjhvnPQxrD1vjDDsE9l22Dgzp8E=
+
+Name: assets/sfx/get_xp_01.wav
+SHA1-Digest: QF0of5laqDXa/XJTmrIl2azs4/0=
+
+Name: assets/sfx/giant_attack_swing_01.wav
+SHA1-Digest: Gck5jJ8tB+VqdCBIdELXA4BGX6w=
+
+Name: assets/sfx/giant_attack_swing_02.wav
+SHA1-Digest: xq/nO/nRVA1kLWP8E/elbYY0Ffg=
+
+Name: assets/sfx/giant_attack_swing_03.wav
+SHA1-Digest: MnE/B3Q42hq5aNPs+yJzn+Oobbw=
+
+Name: assets/sfx/giant_deploy_01.wav
+SHA1-Digest: LJ/3TTY2NsXt7jSVptvk4Mwz5K0=
+
+Name: assets/sfx/giant_deploy_ld.wav
+SHA1-Digest: k3Uhug0lZmFdfKRpazDimN9K7Bs=
+
+Name: assets/sfx/giant_hit_01.wav
+SHA1-Digest: IVv68iAKEKpBA+4y6XiPaprdWX4=
+
+Name: assets/sfx/giant_skelly_dep_vo_01.wav
+SHA1-Digest: Ymrz/lVA3KRaBw64DGkWjM2Sl3A=
+
+Name: assets/sfx/gob_attack_01v2.wav
+SHA1-Digest: gUAz3tdBSWBP2vEoOSX8SnMnRuc=
+
+Name: assets/sfx/gob_attack_02v2.wav
+SHA1-Digest: csIr4gEVMMRSRMk3lPjTgoDDED4=
+
+Name: assets/sfx/gob_attack_03v2.wav
+SHA1-Digest: cT5WTtBFIDE2qXZoySp6iPH+0Og=
+
+Name: assets/sfx/gob_step_01_v1.wav
+SHA1-Digest: GPjJ2BwNFF8XM8TbmMuRtEkxxKU=
+
+Name: assets/sfx/gob_step_01_v2.wav
+SHA1-Digest: gv005M2jBB7omFu8Vv7hXFTSsJ8=
+
+Name: assets/sfx/gob_step_01_v3.wav
+SHA1-Digest: WxqpTfsq1HhjpnNaYe2IQTb1xQw=
+
+Name: assets/sfx/gob_step_01_v4.wav
+SHA1-Digest: iZ+ySN/ClbIxyD/MxDuvs0ILxPw=
+
+Name: assets/sfx/gob_step_01_v5.wav
+SHA1-Digest: dt2PkfGmPs0Htton9bO0bvAp01A=
+
+Name: assets/sfx/goblin_arena_jingle_01.wav
+SHA1-Digest: MeZQSxqPZkK8Fe33J+1cbRUJzWE=
+
+Name: assets/sfx/goblin_deploy_14.wav
+SHA1-Digest: 9IqXrdDjgSPuPNY8+MHmohNnGrE=
+
+Name: assets/sfx/gold_chest_open_01.wav
+SHA1-Digest: uE5z2Dc8cIVe45LcM4sqgYme2zU=
+
+Name: assets/sfx/golden_chest_land_01.wav
+SHA1-Digest: e77IIXjTuAcR/viHD1pwTnwX+3o=
+
+Name: assets/sfx/golem_atk_01.wav
+SHA1-Digest: LcBZv2z5cBY70kz0uwtPhvIpX+w=
+
+Name: assets/sfx/golem_atk_hit_01.wav
+SHA1-Digest: sHLhYYXoIHHNM1pBW3gNVS11z/A=
+
+Name: assets/sfx/golem_deploy_01.wav
+SHA1-Digest: roM7OwHBVsf78jRW0QuQdQHJLeI=
+
+Name: assets/sfx/golem_die_01.wav
+SHA1-Digest: CmSbAgXzGLjidASfbZB+qMNpMgc=
+
+Name: assets/sfx/golem_walk_02.wav
+SHA1-Digest: DYcucWSL3UfAis0mSVSTAookXRw=
+
+Name: assets/sfx/grabcard_01.wav
+SHA1-Digest: 7dV/Mwbpx3QqU8u6OV9mkbp4PHM=
+
+Name: assets/sfx/heal_magic_03.wav
+SHA1-Digest: lG7hrX+mvd3iFnh5vHkdjFJeNsg=
+
+Name: assets/sfx/hog_arena_jingle_01.wav
+SHA1-Digest: asOYh30eWtufsNiP2C8PaXSSmm4=
+
+Name: assets/sfx/hogrider_atk_01.wav
+SHA1-Digest: XXtILxsxW4AKAdXenT9Hm8/FaN8=
+
+Name: assets/sfx/hogrider_atk_03.wav
+SHA1-Digest: 3Fd6H1KgDj4FpKaCcT4YbVxQLCY=
+
+Name: assets/sfx/hogrider_deploy_01.wav
+SHA1-Digest: Y1N5G/vmxVIngUZDNJEpIVX5wy4=
+
+Name: assets/sfx/hogrider_deploy_end_01.wav
+SHA1-Digest: pPMyVQoKK67Wii8Z73EBESw8ZoI=
+
+Name: assets/sfx/hogrider_step_01.wav
+SHA1-Digest: Sb739Baos9eSWoIZ4Xl4bdlXvoc=
+
+Name: assets/sfx/horse_blow_01.wav
+SHA1-Digest: CpMQ73yTw929y9WXe5q5IiBxLZE=
+
+Name: assets/sfx/horse_gallop_01.wav
+SHA1-Digest: HvsZntrS548NSct7fAkO0KxFIE8=
+
+Name: assets/sfx/horse_gallop_02.wav
+SHA1-Digest: HCnFGTL31CMM80om/Ds8BiGhSKA=
+
+Name: assets/sfx/huge_magical_chest_tap_01.wav
+SHA1-Digest: om96wWtrlSTBMkd2ubhndo3Hms0=
+
+Name: assets/sfx/huge_magical_land_01.wav
+SHA1-Digest: SCjoYpknVpOAp28hrpPrAA/loKg=
+
+Name: assets/sfx/hugewooden_land_01.wav
+SHA1-Digest: 9W4zaE9zdgOEYCJS9RjfVDKulvc=
+
+Name: assets/sfx/hugewooden_land_open_01.wav
+SHA1-Digest: e9PUxNq5rmKs8K8KTR4LV4ik/vU=
+
+Name: assets/sfx/ice_golem_atk_01.wav
+SHA1-Digest: 4ko/XFY80rlHeVmcntInCb8MPDQ=
+
+Name: assets/sfx/ice_mage_impact_02.wav
+SHA1-Digest: mLSfSYD6jUjn7jYP2d+OQxdV3fo=
+
+Name: assets/sfx/ice_sp_deploy_01.wav
+SHA1-Digest: RA2kDbGEhqvOyY30HrRxQBRfkgk=
+
+Name: assets/sfx/ice_sp_deploy_02.wav
+SHA1-Digest: IeQXVjILlp8yIBqLh91q1MkveHM=
+
+Name: assets/sfx/ice_wiz_atk_01.wav
+SHA1-Digest: fwF/OuNx/KGSRtqgiOqhKWNm+bg=
+
+Name: assets/sfx/ice_wiz_atk_02.wav
+SHA1-Digest: 6b5RQU7GLPRsy+fl75AaaT1oaDw=
+
+Name: assets/sfx/ice_wiz_atk_03.wav
+SHA1-Digest: 9xxCJrUD3paHFOfsvjc6/YC8cd0=
+
+Name: assets/sfx/ice_wiz_atk_05.wav
+SHA1-Digest: bjZ8MTLgsFXLkxQYAUQ3ShvW8NE=
+
+Name: assets/sfx/ice_wiz_atk_07.wav
+SHA1-Digest: 3e9kTaIgb6Tnh9HzqFfbgIuNbYY=
+
+Name: assets/sfx/ice_wiz_atk_08.wav
+SHA1-Digest: F+LKuKRv4pDsuylxWpB8sAv7qLw=
+
+Name: assets/sfx/ice_wiz_dep_01.wav
+SHA1-Digest: vCpYijjzSWbtKvypmla9ZLzsV4Y=
+
+Name: assets/sfx/ice_wiz_dep_04.wav
+SHA1-Digest: JYWVD3VMfx2zOgo8zzyVGVwZXoQ=
+
+Name: assets/sfx/ice_wiz_deploy_01.wav
+SHA1-Digest: t9RWosSgEVcCqmuJsZXgXSXpgWo=
+
+Name: assets/sfx/ice_wiz_footstep_01.wav
+SHA1-Digest: FSRe3BFBRXi6wKpRkGZbUeQ1LKY=
+
+Name: assets/sfx/ice_wiz_land_01.wav
+SHA1-Digest: PRwgYXzdjvfO12VkJR/36ADPWWY=
+
+Name: assets/sfx/icemage_attack_03.wav
+SHA1-Digest: D3GLhScfIIfFovp2TX4Hvc7FVgI=
+
+Name: assets/sfx/inferno_dragon_fireloop_01.wav
+SHA1-Digest: Hk7j0bRItipYfQ3pW95ENI/P6PM=
+
+Name: assets/sfx/iron_chest_land_01.wav
+SHA1-Digest: xTQ9Ms4vKziBZNwB+NZG7KThF3U=
+
+Name: assets/sfx/iron_chest_open_01.wav
+SHA1-Digest: 83yW5OBmgJ9IALtrDMwqbiR69uc=
+
+Name: assets/sfx/jungle_arena_jingle_01.wav
+SHA1-Digest: 9PS4kXz2Y8cgRGAUQM7HrgPoPiY=
+
+Name: assets/sfx/kill_enemy_big_summon_02.wav
+SHA1-Digest: 6C2H0oevPUjLle5+NLnQmm9qbb0=
+
+Name: assets/sfx/king_activate_01.wav
+SHA1-Digest: 4gAbWBg3n63zbfVVAFUw4CNSYL0=
+
+Name: assets/sfx/king_congrats_01.wav
+SHA1-Digest: VG2OOrRccbF9wOy+jzen7A0Gjls=
+
+Name: assets/sfx/king_congrats_02.wav
+SHA1-Digest: E1QhfXVDsUOfOJ+Gr8G/c3cy1JY=
+
+Name: assets/sfx/king_congrats_03.wav
+SHA1-Digest: 5cHirmIiaWNPI0s2vHjT4+ApKbU=
+
+Name: assets/sfx/king_congrats_04.wav
+SHA1-Digest: A6zP6oQM0I9f8/1rdPmnmcypVtg=
+
+Name: assets/sfx/king_crying_01.wav
+SHA1-Digest: XdwA3rJblsMYZ7ab3M+sCgeqNGU=
+
+Name: assets/sfx/king_crying_02.wav
+SHA1-Digest: 4H9UYwjwOjlg3PukBEcVvhZzwBI=
+
+Name: assets/sfx/king_crying_03.wav
+SHA1-Digest: Q+m0bspJf7kfbcO07UWSYLu3J8E=
+
+Name: assets/sfx/king_crying_04.wav
+SHA1-Digest: TtT9XMx5C4GMwIs/wiTnCgJ5SwM=
+
+Name: assets/sfx/king_fire_06.wav
+SHA1-Digest: i1gj7BbyWWcOHoBi5kMWt3yJfnI=
+
+Name: assets/sfx/king_happy_01.wav
+SHA1-Digest: ZpFw1kDvzYCB7G3ukxyd1zy2044=
+
+Name: assets/sfx/king_happy_02.wav
+SHA1-Digest: 7A3XwpOdM5WwCeBVjGjXj0B9AHk=
+
+Name: assets/sfx/king_happy_03.wav
+SHA1-Digest: sDNTwUAq/namUe4y2uvrLEiZkEs=
+
+Name: assets/sfx/king_happy_04.wav
+SHA1-Digest: s9eDNwDwhsuM6gLwU4iOZQK9Umw=
+
+Name: assets/sfx/king_laughter_01.wav
+SHA1-Digest: uF/4KnUJuTufmCUbQdMTwVMnuO4=
+
+Name: assets/sfx/king_laughter_02.wav
+SHA1-Digest: /8W4ywDAiXG46AvYFUN0RiS4XoA=
+
+Name: assets/sfx/king_laughter_03.wav
+SHA1-Digest: f1Etv78OTawkKUhih3vRwTrvaEA=
+
+Name: assets/sfx/king_laughter_04.wav
+SHA1-Digest: MidNGlwFin1GnADurVKps7flvfU=
+
+Name: assets/sfx/king_level_up_01.wav
+SHA1-Digest: wM+j8cwL/Y8BKoyWLn5GbqbvkuE=
+
+Name: assets/sfx/king_mad_01.wav
+SHA1-Digest: INJ+re8+vI5EZ5lBjeCoK4RkYF4=
+
+Name: assets/sfx/king_mad_02.wav
+SHA1-Digest: iWpSljbsVJAyLehX8hXStbt5x7U=
+
+Name: assets/sfx/king_mad_03.wav
+SHA1-Digest: OkLCtT39Fjuiid6iawyuCnZM6s4=
+
+Name: assets/sfx/king_mad_04.wav
+SHA1-Digest: SiqIjtMO6nLJ61l2dWZyMcG0ibc=
+
+Name: assets/sfx/king_tower_gone_01.wav
+SHA1-Digest: +uC5EigUPhtVyK2ZFErxj1ZO1AI=
+
+Name: assets/sfx/king_tower_gone_02.wav
+SHA1-Digest: NCF9SpPoKgdLViOGerzPuHmuyMU=
+
+Name: assets/sfx/king_tower_gone_03.wav
+SHA1-Digest: CzWV8/FzDNVadtBnTLCRGtng/SM=
+
+Name: assets/sfx/king_tower_gone_04.wav
+SHA1-Digest: tEa5yn+38imJlo2Nw6ZPSFQ5/EY=
+
+Name: assets/sfx/king_tower_gone_05.wav
+SHA1-Digest: A0qqYzZYVNyJ/R13EXYWMvzI6DA=
+
+Name: assets/sfx/king_tower_gone_06.wav
+SHA1-Digest: ODwcX9uAPft/w/VrxNI5EyxnsIM=
+
+Name: assets/sfx/king_tower_gone_07.wav
+SHA1-Digest: snVXJxb7w0cZ2Cpfgp6gWVApnLk=
+
+Name: assets/sfx/king_tut_first_vo_01.wav
+SHA1-Digest: vTSeKbNZKXSbv8xCgPgM7/F0Uuk=
+
+Name: assets/sfx/king_tut_second_vo_01.wav
+SHA1-Digest: i39a/jsdSqUZ5LP1rrr1kjJ03bU=
+
+Name: assets/sfx/knighchargehit01.wav
+SHA1-Digest: 0MQnVRK1UZnrdvWXUr6RvKwovmU=
+
+Name: assets/sfx/knight-js_deploy_end_01.wav
+SHA1-Digest: lNH2WFsiBrIfKg3j6PzNpDfwigk=
+
+Name: assets/sfx/knight-js_hit_01.wav
+SHA1-Digest: 9a37Qk2Cax2m4zBEi0XnXx9ExOA=
+
+Name: assets/sfx/knight_attack_hack_01.wav
+SHA1-Digest: o5Jx0vS0tmxvrTzUJ1tMm4Ww1dU=
+
+Name: assets/sfx/knight_attack_start_01.wav
+SHA1-Digest: UzQwrtWmPSZl0ACkfGEUQ2bOPJk=
+
+Name: assets/sfx/knight_attack_start_02.wav
+SHA1-Digest: t5wP3t7OyC2N81vMAST27PN7IGM=
+
+Name: assets/sfx/knight_attack_start_03.wav
+SHA1-Digest: NI9Yui+bxubAnAtPh5aWsaptt0I=
+
+Name: assets/sfx/knight_attack_start_04.wav
+SHA1-Digest: UKrG8aqoyLEn787HQRf7ga8eklM=
+
+Name: assets/sfx/knight_attack_start_05.wav
+SHA1-Digest: 7xz0CqH/jsdJWrAdv+WiPaf6vzY=
+
+Name: assets/sfx/knight_death_01.wav
+SHA1-Digest: OzjiIvCjdAiY2l3neQV/T9N490M=
+
+Name: assets/sfx/knight_deploy_31111.wav
+SHA1-Digest: R+qjFmeB8LZlHCCGyvFD1R8vG3g=
+
+Name: assets/sfx/knight_deploy_end_01.wav
+SHA1-Digest: wCgFTPRgoTihQRHMNtTgZqoM+UU=
+
+Name: assets/sfx/knight_footstep_01.wav
+SHA1-Digest: rK90yhkJCVAxGTK887ae63dcEBo=
+
+Name: assets/sfx/knight_footstep_02.wav
+SHA1-Digest: 9KBXaBXeXWu5IoZjedDlPXLBGsg=
+
+Name: assets/sfx/knight_footstep_03.wav
+SHA1-Digest: 5rnWU1KvA796QVKD5nsL8Q3QSpc=
+
+Name: assets/sfx/knight_footstep_04.wav
+SHA1-Digest: yZ0O2aUkoJqIpKYBByJTSLIW8tI=
+
+Name: assets/sfx/knight_hit_01.wav
+SHA1-Digest: lgSVYXq07R/WU7j8JnphD8MAwT0=
+
+Name: assets/sfx/laser_loop_02.wav
+SHA1-Digest: sgdXEwnZBi/4QAqkUjImORiIGcw=
+
+Name: assets/sfx/lava_hound_deploy_01.wav
+SHA1-Digest: tIN/LjV+vh2LlWLD2VuvjZuZmyk=
+
+Name: assets/sfx/lava_hound_wing_01.wav
+SHA1-Digest: 8rlpwqBeyCkoh/si434QB7gUhkU=
+
+Name: assets/sfx/lava_pup_atk_01.wav
+SHA1-Digest: vpEDMg/tpjw2LAD+reQXags5KvU=
+
+Name: assets/sfx/lava_pup_wing_01.wav
+SHA1-Digest: OG3/QWbG8zN+AeWQlLvIBhVfTiI=
+
+Name: assets/sfx/lava_pups_appear_01.wav
+SHA1-Digest: av+tS/DDASEX+vnmO5ikbiF3CM8=
+
+Name: assets/sfx/laval_hound_atk_02.wav
+SHA1-Digest: vy4XaDSX9VHVtq/TZa/tBcdZC8I=
+
+Name: assets/sfx/laval_hound_atk_03.wav
+SHA1-Digest: EGXBGPVTQ2JpLbkj0jRgRtEOfE4=
+
+Name: assets/sfx/legendary_arena_jingle_01.wav
+SHA1-Digest: egReWtpL8linMo3pNixg0/pwFNI=
+
+Name: assets/sfx/legendary_available_01.wav
+SHA1-Digest: u4l8nZjNcbj0v+DcUWV/DGbpQ1A=
+
+Name: assets/sfx/legendary_available_02.wav
+SHA1-Digest: vxszXG0c+M27qJ1WrTkz+g+cVU0=
+
+Name: assets/sfx/lightning_02.wav
+SHA1-Digest: 4KxltNYeraMxYVO+2TK29VCV+aI=
+
+Name: assets/sfx/log_impact_01.wav
+SHA1-Digest: LwPt8iFe27daFDjwUZIRtRoiO7k=
+
+Name: assets/sfx/log_vocal_01.wav
+SHA1-Digest: I/uFzlE/VzFT6MMf1XdIsd8cdeE=
+
+Name: assets/sfx/logroll01.wav
+SHA1-Digest: bruqiyRxTR+GBTxb3v+PjmGkTbI=
+
+Name: assets/sfx/lose_tour_01.wav
+SHA1-Digest: UpviDr+gvZ2FycUXKv2gN1+Bxb4=
+
+Name: assets/sfx/magic_chest_land_01.wav
+SHA1-Digest: 0jFhMBcakVk8UAkuS85p40Hs+4k=
+
+Name: assets/sfx/magic_chest_open_01.wav
+SHA1-Digest: QfKdmIS9JKL7m4ZQ7Mhp7Z1zISY=
+
+Name: assets/sfx/megaknight_atk_01.wav
+SHA1-Digest: l/lF1brppU8pee19uYsZL+yKBo4=
+
+Name: assets/sfx/megaknight_atk_02.wav
+SHA1-Digest: 4jaD6His91KGYVybs55pGRjw0Ak=
+
+Name: assets/sfx/megaknight_atk_03.wav
+SHA1-Digest: +iQKdwjkVRY1eo0VknHjKnB3vEs=
+
+Name: assets/sfx/megaknight_big_hit_01.wav
+SHA1-Digest: hsxALyrkDqLMR3cVhV5ZZHEXYlo=
+
+Name: assets/sfx/megaknight_dep_sfx_01.wav
+SHA1-Digest: ureKjXEL1QB8RB80gkwzecElpRI=
+
+Name: assets/sfx/megaknight_hit_01.wav
+SHA1-Digest: w3HIizloIks+rfs/BxngMjdFPas=
+
+Name: assets/sfx/megaknight_jump_01.wav
+SHA1-Digest: xX8k0UqXWT2S4S/udRgdhIzk1Y4=
+
+Name: assets/sfx/megaknight_prep_01.wav
+SHA1-Digest: KBRBFAmQBQr1aTIx86+7EEySq2w=
+
+Name: assets/sfx/menu_click_06.wav
+SHA1-Digest: xgwyEEQ92ac0gHRrgjdS8gp5+OI=
+
+Name: assets/sfx/menu_swipe_09.wav
+SHA1-Digest: KQrBHk8Xa0dGDjSAU8llGeXRjTE=
+
+Name: assets/sfx/miner_atk_01.wav
+SHA1-Digest: mLYswK/AS7exRPPZV1zwvQF1kdo=
+
+Name: assets/sfx/miner_atk_vo_01.wav
+SHA1-Digest: NkWFqsIPos9pxoUoJTKNhr5qpO0=
+
+Name: assets/sfx/miner_dig_down_01.wav
+SHA1-Digest: qMnP1Ym5qMGn7/yBxm6Vd3UyV3E=
+
+Name: assets/sfx/miner_dig_loop_01.wav
+SHA1-Digest: HNORRDC9ygjRYS1rYTQrQOc6lqQ=
+
+Name: assets/sfx/miner_dig_up_01.wav
+SHA1-Digest: XjCr5l6LH1sZ1v3QlES64EeOkio=
+
+Name: assets/sfx/miner_footstep_01.wav
+SHA1-Digest: mgVrICVjkzAnXofyn9ThYUha1no=
+
+Name: assets/sfx/miner_hit_01.wav
+SHA1-Digest: tCxubsn6HU9kRWG44DbjftaSruA=
+
+Name: assets/sfx/miner_up_vo_01.wav
+SHA1-Digest: KuX8PbX80lxOVg+VQcGg79j9wKg=
+
+Name: assets/sfx/mini_pekka_atk_12.wav
+SHA1-Digest: 6lmlhpJFnIEs68EFZ+js7vxeyCQ=
+
+Name: assets/sfx/mini_pekka_deploy_end_06.wav
+SHA1-Digest: MsI726tbPqNowCno2jGRBws/Vrc=
+
+Name: assets/sfx/mini_pekka_hit_03.wav
+SHA1-Digest: XIo4j7IM+0IEUhFZYKvok6N7j5A=
+
+Name: assets/sfx/minion_deploy_01.wav
+SHA1-Digest: psrySkWCFuDYnUY8vDpY5fxIj2w=
+
+Name: assets/sfx/minion_wing_02.wav
+SHA1-Digest: SnUYeVFz7mVYDDqNpKpfJaW5SeM=
+
+Name: assets/sfx/minipekka_deploy_01.wav
+SHA1-Digest: TJLcEdNLss/A5JEZICAUQy082IQ=
+
+Name: assets/sfx/minipekka_step_03.wav
+SHA1-Digest: i10flckowhdoha0yJkpYcm0XSvU=
+
+Name: assets/sfx/mortar_deploy.wav
+SHA1-Digest: HY1Q2J9ozKJ90MtTnxxIkZZOI28=
+
+Name: assets/sfx/mortar_fire_03.wav
+SHA1-Digest: vOb6a1Lib+Acd/1c/0KbLKUiFno=
+
+Name: assets/sfx/musket_fire_02.wav
+SHA1-Digest: kt+ugZteS6IpUmoLBuGTZAQQMMI=
+
+Name: assets/sfx/musket_impact_01.wav
+SHA1-Digest: acHBfAq84R9RiVuTWGy0esWHLM8=
+
+Name: assets/sfx/musketeer_deploy_01.wav
+SHA1-Digest: DLuUhydq8aAOR/AshGB5vlhDMWw=
+
+Name: assets/sfx/musketeer_reload_01.wav
+SHA1-Digest: 24HBcQqS7dTe+Iu67R2voYqyyRw=
+
+Name: assets/sfx/n/aminuosi.wav
+SHA1-Digest: o6Ainfz5HG0WA0DSJL8+08rbJME=
+
+Name: assets/sfx/n/dw.wav
+SHA1-Digest: KYYWtH+jahGx+OETULdiHIAP37s=
+
+Name: assets/sfx/n/ld-3.wav
+SHA1-Digest: QL+lTeBQGIlRM75WCyiOCQw/6oY=
+
+Name: assets/sfx/n/wdss-1.wav
+SHA1-Digest: XmS4hoae6MvPJddICyAvVvBCTuc=
+
+Name: assets/sfx/n/xcjs-1.wav
+SHA1-Digest: 9n2QEdMl4kBubnZE/pQzG4ZY020=
+
+Name: assets/sfx/n/xcjs-3.wav
+SHA1-Digest: 0OxNnH9pTU5gOH82lIQkK9JwDdw=
+
+Name: assets/sfx/n/xcjs-4.wav
+SHA1-Digest: 52t2VDyKVVgfKulWbJ+P11e2BME=
+
+Name: assets/sfx/n/yinshen.wav
+SHA1-Digest: fcuxPXI5rt5+Rs4DH8OTMAwMLmw=
+
+Name: assets/sfx/n/zl-1-1.wav
+SHA1-Digest: BauA0c+rV57bMM8aZzIicEzqkeo=
+
+Name: assets/sfx/n/zl-1.wav
+SHA1-Digest: 6C5CTsZvE3QcsCm1LHfDjW6JvEQ=
+
+Name: assets/sfx/n/zl-2-1.wav
+SHA1-Digest: 2MlnCwAA8qUO2cpPFbsi7H6c0vY=
+
+Name: assets/sfx/n/zl-2.wav
+SHA1-Digest: hcRRNh2WExhjXT3MOWKAekiTtIs=
+
+Name: assets/sfx/n/zl-3.wav
+SHA1-Digest: CL+xNj/wXAX7AtqHQtaJbiIanAc=
+
+Name: assets/sfx/new_cards_01.wav
+SHA1-Digest: jEZV6Wk7HJpnvyffdR1LU7EDoFA=
+
+Name: assets/sfx/new_leg_reveal_01.wav
+SHA1-Digest: Zp2iHksH+kSOdw2z+4ODa0aH7fM=
+
+Name: assets/sfx/night_witch_impact_01.wav
+SHA1-Digest: SJwMJboAMjSZb8OX/BsKBq0Q4ww=
+
+Name: assets/sfx/npc_die_02.wav
+SHA1-Digest: bdwmy8CKpIQTH2Abz2mmu+Fcpb8=
+
+Name: assets/sfx/npc_die_04.wav
+SHA1-Digest: 9TVtX9QdLTFJJBIq3IiFkcDwhL4=
+
+Name: assets/sfx/open_chest_diamonds_02.wav
+SHA1-Digest: wwAQyey1fczIX6DE4zp9M1J08dY=
+
+Name: assets/sfx/own_summon_die_03.wav
+SHA1-Digest: pga2Z1lirG7INK4YL7PVuU2xK5Q=
+
+Name: assets/sfx/p_archer_dep_01.wav
+SHA1-Digest: WcasZGyb1qE7hP6AyhkfkW2K5j8=
+
+Name: assets/sfx/p_archer_hit_01.wav
+SHA1-Digest: yiP0xaVWUFfSStXmhLLwSQgQeL8=
+
+Name: assets/sfx/p_flame_arrow_03.wav
+SHA1-Digest: BCB/x3XQoQC97e05Zx+5neODp+g=
+
+Name: assets/sfx/pekka_atk_01.wav
+SHA1-Digest: A/QHGlNIX93GThtK0OkB34qCgjI=
+
+Name: assets/sfx/pekka_attack_hit_03.wav
+SHA1-Digest: Lltf6aP/XGNq3X7yM3nSnvcAJBw=
+
+Name: assets/sfx/pekka_deploy_01.wav
+SHA1-Digest: mbiJeWBzbORrXvrohYKVyMjuiYc=
+
+Name: assets/sfx/pekka_deploy_end_03.wav
+SHA1-Digest: uiZbjRyL/QgsIldAhm0k9fakXgo=
+
+Name: assets/sfx/pekka_footstep_02.wav
+SHA1-Digest: W7rMZUvOHD6SeRgHOZnn2JVMgnQ=
+
+Name: assets/sfx/place_inferno_02.wav
+SHA1-Digest: baxSWEMr0TPfzzWdMICbG6GvT3U=
+
+Name: assets/sfx/poison_spell_01.wav
+SHA1-Digest: 79jD7dwdE4v9BEJnieh/7xTIwGk=
+
+Name: assets/sfx/press_arena_01.wav
+SHA1-Digest: sxih3Spw1cPWAzBBz2tKchCy2ys=
+
+Name: assets/sfx/prince_andrew_use_02.wav
+SHA1-Digest: CCIbEVgAblIvjLndjYr/GKKZwiE=
+
+Name: assets/sfx/prince_andrew_use_04.wav
+SHA1-Digest: omeOFvf1EjVRpnA/ImLnKxJg4Fo=
+
+Name: assets/sfx/prince_andrew_use_09.wav
+SHA1-Digest: m+fLeraBuTQM9wHNAj71bmrwW4c=
+
+Name: assets/sfx/prince_andrew_use_10.wav
+SHA1-Digest: ZZ31tbxxVus6iiRUyoVCJtAoyFg=
+
+Name: assets/sfx/prince_charge_hit_01.wav
+SHA1-Digest: ZTc24wJGFh82S6fl/OHJ517/k8s=
+
+Name: assets/sfx/prince_deploy_01.wav
+SHA1-Digest: xyqARp2s5c1IvN8ZHUUeXGE3C8g=
+
+Name: assets/sfx/prince_hit_01.wav
+SHA1-Digest: Bef+02sygVVE9OGA6WntsYZFrtU=
+
+Name: assets/sfx/princess_archer_atk_vo_02.wav
+SHA1-Digest: JruAykWrU4R1cNVC/MV+J83FvMg=
+
+Name: assets/sfx/princess_archer_atk_vo_03.wav
+SHA1-Digest: 9PSgHDM6PbFVuuhmbneUezLJf8M=
+
+Name: assets/sfx/princess_archer_atk_vo_04.wav
+SHA1-Digest: DKiPjLs0IHNahWHV1f2sNf9ZACU=
+
+Name: assets/sfx/princess_archer_atk_vo_06.wav
+SHA1-Digest: V+Wh9SWhMAgH3K08SicfuAh6Lfg=
+
+Name: assets/sfx/princess_archer_dep_vo_01.wav
+SHA1-Digest: myYK/JEJBXF3ZwrcWXiKhCPFzNQ=
+
+Name: assets/sfx/princess_archer_dep_vo_02.wav
+SHA1-Digest: xAe1LGpdPN7WNupkWK7KeXLypLQ=
+
+Name: assets/sfx/princess_archer_dep_vo_03.wav
+SHA1-Digest: A1gSsi7UHxKmvtBxazMG5W2M1ig=
+
+Name: assets/sfx/princess_archer_dep_vo_04.wav
+SHA1-Digest: c65Mz/7+MNu4X6y7QFIfiP2ebco=
+
+Name: assets/sfx/progress_fill_01.wav
+SHA1-Digest: wn95Oq72VmcB55A+WmcOa/ijKuQ=
+
+Name: assets/sfx/rage_barb_deploy_02.wav
+SHA1-Digest: OlibB8H4gOc9mP6NUco3a1jsMWc=
+
+Name: assets/sfx/rage_barb_step_01.wav
+SHA1-Digest: EcbSPAML8iJUeHFWTaRIs75bRaM=
+
+Name: assets/sfx/rage_spell_01.wav
+SHA1-Digest: pOtaXBaP9wMUSdBXG0xWSHRDsjI=
+
+Name: assets/sfx/rider_charge_03.wav
+SHA1-Digest: VMW6oY3/W2eACJ5vVBAkOHSoHtw=
+
+Name: assets/sfx/rocket_hit_01v2.wav
+SHA1-Digest: 0CCBohCJPUV6t78ywGm3eYFwixs=
+
+Name: assets/sfx/rocket_launch_02v2.wav
+SHA1-Digest: UI/HWSS9ZzIa+i7gcVC/uk02g30=
+
+Name: assets/sfx/rolling_cannon_deploy_01.wav
+SHA1-Digest: 5IX1B4AHHg/8jOnAnWEEGIhIUAA=
+
+Name: assets/sfx/rolling_cannon_step_01.wav
+SHA1-Digest: OuIuBkv4kXhs8Smefn5IYYTTkA0=
+
+Name: assets/sfx/royal_giant_deploy_01.wav
+SHA1-Digest: FwD7Lo11ph8K9yGmkhVMXIE2Fs0=
+
+Name: assets/sfx/royal_giant_projectile_hit_01.wav
+SHA1-Digest: Ga9Xc9GEsAllhRQE/L5JE5oMjuU=
+
+Name: assets/sfx/royal_min_atk_01.wav
+SHA1-Digest: wpCMCjoh9J1lpYaq5g8NnMYUIEA=
+
+Name: assets/sfx/royal_min_dep_01.wav
+SHA1-Digest: oT42bKpKOLeaEU8aIz+BkfPwvmk=
+
+Name: assets/sfx/royal_minion_wing_03.wav
+SHA1-Digest: bobXIOy6Xv0l2c28a0+xOMJhXhs=
+
+Name: assets/sfx/royale_horn_01.wav
+SHA1-Digest: hjyg2KkcFj4d2XtHjozzzqzBdEk=
+
+Name: assets/sfx/royale_horn_02.wav
+SHA1-Digest: 7q6SmH4OO+n15wkw1R+5BGrGinY=
+
+Name: assets/sfx/royale_horn_03.wav
+SHA1-Digest: IMnnGld+AJuNWl/ViAyUEQbE6iA=
+
+Name: assets/sfx/royale_tornado_01.wav
+SHA1-Digest: Qw9yCC7J4KMWbpRigeMvDe5TwiY=
+
+Name: assets/sfx/royalgiant_fire_01.wav
+SHA1-Digest: rJ8WHGBJJdU+HaRz3HgXtaED4qU=
+
+Name: assets/sfx/royalgiant_fire_02.wav
+SHA1-Digest: wmXaHs/2bfLYzPE1T9lOWFLpDMQ=
+
+Name: assets/sfx/royalgiant_fire_03.wav
+SHA1-Digest: cvf5gwdnWRgxUCrrVscToKvEo0U=
+
+Name: assets/sfx/royalgiant_fire_04.wav
+SHA1-Digest: VwyctWlNi3s+8Dogs60LXQXc7BI=
+
+Name: assets/sfx/royalgiant_fire_05.wav
+SHA1-Digest: vfxpD+R4o6AGTIWCq8WVk6rbD6M=
+
+Name: assets/sfx/scroll_chat_01.wav
+SHA1-Digest: hzuUH6dC1b5pSdYQgvZgPPc/vp0=
+
+Name: assets/sfx/scroll_close_08.wav
+SHA1-Digest: 1in8j2KNH2HtsLiPGPXFA3QTi54=
+
+Name: assets/sfx/scroll_fusion_01.wav
+SHA1-Digest: /xjvSwaO8ETsWTfKbS12BZmUHDA=
+
+Name: assets/sfx/scroll_loading_01.wav
+SHA1-Digest: DE/7FRpLpsguRscV1lo1ssNgySU=
+
+Name: assets/sfx/scroll_open_01v3333.wav
+SHA1-Digest: U0KBD6t6ztzGX54SpzEHoo6XHt4=
+
+Name: assets/sfx/shield_skele_atk_02.wav
+SHA1-Digest: 8BUyufIo1KNaRaqBUpouZ9uFf64=
+
+Name: assets/sfx/shield_skele_lost_02.wav
+SHA1-Digest: FiNWLLMICEonP7M5e+8pWxBCPy4=
+
+Name: assets/sfx/shop_offer_bought_01.wav
+SHA1-Digest: oO/2vULIfXnZFtfkX47pxlL8xW4=
+
+Name: assets/sfx/skele_warrior_dep_02.wav
+SHA1-Digest: 7QM5SGlNJDqpGZFCK+wYeBs2Qoc=
+
+Name: assets/sfx/skele_warrior_step_02.wav
+SHA1-Digest: TosfEDm/Zo2sutMJI4fTSe+BLcc=
+
+Name: assets/sfx/skeleballoon_pop_01.wav
+SHA1-Digest: 9xui5ZyKSWbfAdcmTTgCIw6NzoY=
+
+Name: assets/sfx/skeleballoon_pop_03.wav
+SHA1-Digest: L1w+5K1BlLe7v3v5uklCtaBpSSI=
+
+Name: assets/sfx/skeleton_arm_swing_02.wav
+SHA1-Digest: 8O/5yc6Yb18zTZund3286Zd/oj8=
+
+Name: assets/sfx/skeleton_atk_03.wav
+SHA1-Digest: 5vV74oiqAQKni/hdfPoNFJ4Ei6A=
+
+Name: assets/sfx/skeleton_bomb_explo_01.wav
+SHA1-Digest: c1QPVpRngJjtsE5hFTq7TnsIgAA=
+
+Name: assets/sfx/skeleton_deploy_03.wav
+SHA1-Digest: Na+O3/ZoCmz4kmvjh1VM9EbNDXs=
+
+Name: assets/sfx/skeleton_deploy_end_01.wav
+SHA1-Digest: /raYiJjUqll9bHZJKYw4CzWtjhk=
+
+Name: assets/sfx/skeleton_step_02.wav
+SHA1-Digest: RhxYSHVbZCnPLj7zF1E0W0TKsQ8=
+
+Name: assets/sfx/snowstep_01.wav
+SHA1-Digest: 4ILp+/H3rQvTn4RihvhCw97eb3I=
+
+Name: assets/sfx/sound_fireball_hit_01.wav
+SHA1-Digest: QH0ds133Mcbjqj+obyRWcJ3XIMQ=
+
+Name: assets/sfx/spear_gob_atk_01.wav
+SHA1-Digest: xUHKVUTTaoCLtokC8BeT7it5l7c=
+
+Name: assets/sfx/spear_gob_atk_02.wav
+SHA1-Digest: cBIR8XAafEe+xw6tK5cfsBMhYtc=
+
+Name: assets/sfx/spear_gob_atk_03.wav
+SHA1-Digest: XNRtX634d6OBdRat5GzeaI0Nqp8=
+
+Name: assets/sfx/spear_gob_atk_hit_01.wav
+SHA1-Digest: kmKuvSPSSTDHDPoSpELswACin1k=
+
+Name: assets/sfx/spear_gob_atk_swish_01.wav
+SHA1-Digest: F2I/c4ncNn6JnDr+uC/lAN02O8Q=
+
+Name: assets/sfx/spear_gob_dep_01v2.wav
+SHA1-Digest: JEOkyWBi2vntsRkBMKZtkHg5mBo=
+
+Name: assets/sfx/spear_gob_step_01.wav
+SHA1-Digest: 7LfXHUE1T6yMoKLiBJ/PzqyKafM=
+
+Name: assets/sfx/speech_bubble_tut_03.wav
+SHA1-Digest: xZRStpo6jm7ggS9hvsJbz+GlS6Y=
+
+Name: assets/sfx/spell_not_ready_01.wav
+SHA1-Digest: 3JKXRa1KQKIwvk90FiMSdpWcU6Q=
+
+Name: assets/sfx/spellarena_jing_01.wav
+SHA1-Digest: qU0dmNuXqhlr2szC1tkBAmp0T24=
+
+Name: assets/sfx/spellcast01.wav
+SHA1-Digest: Jv3mLWMm6uDlHoq1dd67ZeelKc8=
+
+Name: assets/sfx/star_chest_open_01.wav
+SHA1-Digest: KAO0YOn9aA3RgBgbJ2WhE5UJOD8=
+
+Name: assets/sfx/stone_golem_deploy_02.wav
+SHA1-Digest: unnQiZDU/uH4N5wjLE8/Dqg9ZYM=
+
+Name: assets/sfx/summon_own_07.wav
+SHA1-Digest: g9mJ0sVzPBnO7dudgzGe68nqiuE=
+
+Name: assets/sfx/summon_witch_01.wav
+SHA1-Digest: jY5rkqylkx95yNu7gfwBWp/4+S8=
+
+Name: assets/sfx/supercell_jingle.wav
+SHA1-Digest: TJLcEdNLss/A5JEZICAUQy082IQ=
+
+Name: assets/sfx/tap_coins_01.wav
+SHA1-Digest: ONvrmt0tOY2sAvyOVpbt2fDSXuA=
+
+Name: assets/sfx/tap_gems_02.wav
+SHA1-Digest: Mca80SENZ0B7rWDKqQSORatgWMA=
+
+Name: assets/sfx/tap_locked_chest_01.wav
+SHA1-Digest: sVebtiItA6PYWJe3H69CMxEqF4k=
+
+Name: assets/sfx/target_01.wav
+SHA1-Digest: gGREMTGCefBzQGQv0V4l9Xi1YL0=
+
+Name: assets/sfx/tesla_close_02.wav
+SHA1-Digest: +9JW9n5iJOFVYaCfiZr26s2N+J4=
+
+Name: assets/sfx/tesla_open_02.wav
+SHA1-Digest: i/CaLhNc0Lk2STycpc3TXlo36rk=
+
+Name: assets/sfx/tesla_zap_01.wav
+SHA1-Digest: tb2A48WOWSmgFrNrBmaYB/mFUpY=
+
+Name: assets/sfx/tex_whoosh_02.wav
+SHA1-Digest: HxhHMzdzah/gzu+Ntig4C5Unkyg=
+
+Name: assets/sfx/text_whoosh_in_03.wav
+SHA1-Digest: XtIUpDFQmRRZVb1FP2bz+FgyV2A=
+
+Name: assets/sfx/tinymite_attack_04.wav
+SHA1-Digest: aBHeL8zERcVbXvirlbLeDBCFFsE=
+
+Name: assets/sfx/tinymite_attack_05.wav
+SHA1-Digest: pQof+BJcecCxfRXz6yqGymn9X5E=
+
+Name: assets/sfx/tinymite_attack_06.wav
+SHA1-Digest: MkvecmcmTj4JNfVvHlkubWFoqLs=
+
+Name: assets/sfx/tombstone_deploy_01.wav
+SHA1-Digest: 8yEbKZFeJHFRUkAca0AUGQz7Hww=
+
+Name: assets/sfx/tombstone_deploy_ld.wav
+SHA1-Digest: hCJoxEgUexlVgM5YAdfzO70PH0U=
+
+Name: assets/sfx/tower_attacked_02.wav
+SHA1-Digest: S1mupbCDHbKfzFBXkwtXggyu1xA=
+
+Name: assets/sfx/tut_count_01.wav
+SHA1-Digest: YdOQmNA1TOkvFFWyS71mhBZKA/A=
+
+Name: assets/sfx/tut_jing_01.wav
+SHA1-Digest: c8ASk9xxjluPiLox/gae5VW86M0=
+
+Name: assets/sfx/tut_jing_02.wav
+SHA1-Digest: esi9Mii9Z8jhjld41qxskAmqvAo=
+
+Name: assets/sfx/tutorial_plink_02v2.wav
+SHA1-Digest: 09Fd+/NiC5xshjuvqUubaujlprs=
+
+Name: assets/sfx/unlock_chest_start_01.wav
+SHA1-Digest: Kj2O0yusaDGMijF1aQjLFEufkYI=
+
+Name: assets/sfx/up_down_swipe_01.wav
+SHA1-Digest: SW4KJqFVEXSsZNILm0Sp4H1lo3w=
+
+Name: assets/sfx/upgrade_card_01.wav
+SHA1-Digest: Id0mEasB4/JiW8vR8xI7KT4hhkg=
+
+Name: assets/sfx/valk_step_02.wav
+SHA1-Digest: n/i+YINgvB5xpnfG+D93nKywQ+8=
+
+Name: assets/sfx/valkyrie_atk_04.wav
+SHA1-Digest: ErD3VjHqD30ND9AfYhEWAQIOTl4=
+
+Name: assets/sfx/valkyrie_atk_05.wav
+SHA1-Digest: 7hkbE+UMwzzeC3JZwO/V9XmmAg4=
+
+Name: assets/sfx/valkyrie_atk_06.wav
+SHA1-Digest: W5Ur6H4z/IF00fCuZ3d7BmN7lXw=
+
+Name: assets/sfx/valkyrie_atk_07.wav
+SHA1-Digest: GLjNtCKaCu5w71paI+bucoDrSAc=
+
+Name: assets/sfx/valkyrie_atk_08.wav
+SHA1-Digest: i5l0ELu8NFaZv7Es9x3j4D73GDw=
+
+Name: assets/sfx/valkyrie_atk_09.wav
+SHA1-Digest: KB3cdeBb0spNh6fP16y8EjZj1A0=
+
+Name: assets/sfx/valkyrie_atk_10.wav
+SHA1-Digest: GlCYJ83V1DEmGwDZuR6HdX3uq9Y=
+
+Name: assets/sfx/valkyrie_deploy_02.wav
+SHA1-Digest: 0Kz4Fa1suP9b8r2NApI/iJE4K/c=
+
+Name: assets/sfx/valkyrie_deploy_end_02.wav
+SHA1-Digest: G4hcBwJHuGeLtvGC803SpLSWhgU=
+
+Name: assets/sfx/valkyrie_hit_01.wav
+SHA1-Digest: 4HtPnj9AoQo//+teRuTK903lgfY=
+
+Name: assets/sfx/water_splash_02.wav
+SHA1-Digest: IGEqZmtGUBlU5Wn4rQlDhdNW//I=
+
+Name: assets/sfx/win_tour_01.wav
+SHA1-Digest: vKTQzvz7HDichd+Pm8o/MMOjmOQ=
+
+Name: assets/sfx/witch_attack_02.wav
+SHA1-Digest: uXOv/TDP57FjBrUJumm8mE1KFzU=
+
+Name: assets/sfx/witch_step_01.wav
+SHA1-Digest: AiX4KTR0JyjpbhpPOAFzYAyWIBE=
+
+Name: assets/sfx/witch_summon_02.wav
+SHA1-Digest: xWzBXhrtJo+3khiBU7TG8VruaGU=
+
+Name: assets/sfx/witch_summon_bubing.wav
+SHA1-Digest: hJuXEZvC/BehtwhzH9CjQksQlcc=
+
+Name: assets/sfx/wiz_atk_vo_01.wav
+SHA1-Digest: sI49WXMoYpDzLT1EoovPFAdQDGs=
+
+Name: assets/sfx/wiz_atk_vo_02.wav
+SHA1-Digest: BQYAFVy3m47AoJ6OWFf3hVhgg1g=
+
+Name: assets/sfx/wiz_atk_vo_03.wav
+SHA1-Digest: lThG+wBbMlKr+zBizn/PRksJc/I=
+
+Name: assets/sfx/wiz_atk_vo_04.wav
+SHA1-Digest: ItFOKfwHWkJjKvXmD1FgZSTgKRc=
+
+Name: assets/sfx/wiz_deploy_vo_01.wav
+SHA1-Digest: mQtCD9pYKRBRnpn+BU/OO391UD8=
+
+Name: assets/sfx/wiz_deploy_vo_02.wav
+SHA1-Digest: Iq4ie7ZerDIC71MtAdSEKGdBpCc=
+
+Name: assets/sfx/wiz_fireball_01v9.wav
+SHA1-Digest: j+bqC/tYr/pL3pIfpGz1eFjnAbU=
+
+Name: assets/sfx/wiz_steps_01v2.wav
+SHA1-Digest: w1kSWy3E0fCdxhYcvS7Zo+DU/Oo=
+
+Name: assets/sfx/wooden_chest_land_01.wav
+SHA1-Digest: CGaUuqfkCv8feCh2WpiSquhfIa4=
+
+Name: assets/sfx/wooden_chest_open_01.wav
+SHA1-Digest: 7u51HsVOS+53aO4jDCVZp4A7ejw=
+
+Name: assets/sfx/woodsman_atk_01.wav
+SHA1-Digest: BJ54iBwhGEOI5gEa0tbos2N2tOs=
+
+Name: assets/sfx/woodsman_atk_02.wav
+SHA1-Digest: UcWkDeVQ9HcJr32tDMMM9HJjzHA=
+
+Name: assets/sfx/woodsman_atk_03.wav
+SHA1-Digest: D8v4RzZGSh4B8ItHBRAS9W84FKM=
+
+Name: assets/sfx/woodsman_atk_04.wav
+SHA1-Digest: pLT4NWzjj5QiUuieF9NRvdzvCh0=
+
+Name: assets/sfx/woodsman_atk_05.wav
+SHA1-Digest: TcManz+hW0KowR8VP8JRj7p+uz0=
+
+Name: assets/sfx/woodsman_atk_06.wav
+SHA1-Digest: Xgp3cfGPs7DhUIh6KNjZnZUzEw8=
+
+Name: assets/sfx/woodsman_atk_07.wav
+SHA1-Digest: wfra4NY0dVKvGluAjRO1kwxD9B4=
+
+Name: assets/sfx/woodsman_deploy_01.wav
+SHA1-Digest: iERln30WauStLZz2AJtHiROLvnE=
+
+Name: assets/sfx/xbow_fire_01.wav
+SHA1-Digest: Y8z1yTNsQoxl9Ls0JxTBIS4VbpE=
+
+Name: assets/sfx/xbow_place_02.wav
+SHA1-Digest: rOc8JnLBcThmV9gnCXF3Fl0//WY=
+
+Name: assets/sfx/zap_02.wav
+SHA1-Digest: m4ZQVuAjvT5qxdLIFmpPG43u/k8=
+
+Name: assets/sfx/zap_discarge_03.wav
+SHA1-Digest: iQAj3rmZgmxDucpmdWhZpctzHA4=
+
+Name: assets/sfx/zap_machine_charge_06.wav
+SHA1-Digest: oqAavoiraJTW0iiO21tlfJugZns=
+
+Name: assets/sfx/zap_machine_run_loop_04.wav
+SHA1-Digest: jSV8Nb2qFw6t94xbr/BuaFn7WZA=
+
+Name: assets/sfx/zappy_drop_01.wav
+SHA1-Digest: gJ2oAdolFbMCFVpBp5c2DNpaCfQ=
+
+Name: assets/sfx/zappyshot_01.wav
+SHA1-Digest: QFV2RHrZhJNKHleQdboykqQ5gwk=
+
+Name: assets/tilemaps/tilemap.csv
+SHA1-Digest: 5I7//jxqS+jn4WZcj+7hw/nusao=
+
+Name: assets/tilemaps/tilemap_2v2.csv
+SHA1-Digest: mWrEvR7+wnOFQ1MeBkzqUu5Oblo=
+
+Name: assets/tilemaps/tilemap_duoxian.csv
+SHA1-Digest: zNoZMiybZSh1n/3hb50F4Gwnvbk=
+
+Name: assets/tilemaps/tilemap_pve.csv
+SHA1-Digest: PdkYza32XlKmodux8V7rwTOKlcE=
+
+Name: assets/tilemaps/tilemap_pve1.csv
+SHA1-Digest: tCV+OmyEYR93oa+/DhiYH7xiZJM=
+
+Name: assets/tilemaps/tilemap_tve.csv
+SHA1-Digest: 9wUFFJJx/6Qa6J5b6/DK1Rv/k5I=
+
+Name: assets/titan/fonts/android_emoji.ttf
+SHA1-Digest: woxDsqzssaJWZBbyyEPonq91iNg=
+
+Name: assets/titan/fonts/droid_naskh_ui_regular.ttf
+SHA1-Digest: MSO3N0/VX/1Qff9CQCWuwNzqUdY=
+
+Name: assets/titan/fonts/droid_sans_armenian.ttf
+SHA1-Digest: lC+raRjA3Jv1n2KrFeP9OHNrvo0=
+
+Name: assets/titan/fonts/droid_sans_devanagari_regular.ttf
+SHA1-Digest: rcDk7w2X12yWFtec3dheokLZP7Y=
+
+Name: assets/titan/fonts/droid_sans_fallback.ttf
+SHA1-Digest: kBdyu5ydZB/QSz6e49N2UTF9EZ4=
+
+Name: assets/titan/fonts/droid_sans_hebrew_regular.ttf
+SHA1-Digest: x+RcN58KCjuoXGnq7mti4m/7gag=
+
+Name: assets/titan/fonts/droid_sans_thai.ttf
+SHA1-Digest: eS8rnuLcsv6twXUA/PwTGlsc2vQ=
+
+Name: assets/titan/fonts/won_type.ttf
+SHA1-Digest: 0Kwo9KBf7dfZStebLmMwFi9HuMo=
+
+Name: classes.dex
+SHA1-Digest: CRE4gM1evpL4Ud8BUmULSHxW76c=
+
+Name: lib/armeabi-v7a/libfmod.so
+SHA1-Digest: kidH5qDjSGkaMafsNNk84/4oXUE=
+
+Name: lib/armeabi-v7a/libg.so
+SHA1-Digest: 2RoNLqq4kniS02LluiOxv6ilmVw=
+
+Name: r/0
+SHA1-Digest: kveLMr9nj8U5xzQJqHFMQfwUpTM=
+
+Name: r/0.xml
+SHA1-Digest: K04UY1ZT/nSiTFDbKuQyDScLnpo=
+
+Name: r/00
+SHA1-Digest: fHTKE3tXyr7EVG7Nxz7woh6wcVY=
+
+Name: r/00.xml
+SHA1-Digest: 9mrxZ0Dde/HdRLQy8JrHYd7VT/w=
+
+Name: r/01
+SHA1-Digest: zxiHmz0td0ruSDI48+o+wjdvgc0=
+
+Name: r/01.xml
+SHA1-Digest: /x3AbPnQbB3t69dVgY37+tz+m+c=
+
+Name: r/02
+SHA1-Digest: 9q0UqEls6SRbv8khyPw6WnsyDZc=
+
+Name: r/02.xml
+SHA1-Digest: pLc6/o40DA67wLYmi1PAflE0RM4=
+
+Name: r/03
+SHA1-Digest: mAb08XvJtaPRRKMYS/hWtHDDMps=
+
+Name: r/03.xml
+SHA1-Digest: DeBZdUhcf4jwXxVGfnivrtcbPbk=
+
+Name: r/04
+SHA1-Digest: YkU1Tkpk2XXMuluBn22YHf9T2yM=
+
+Name: r/04.xml
+SHA1-Digest: ZgU7NzBn1TJr3fgBJxumoCV/Ck8=
+
+Name: r/05
+SHA1-Digest: jhInSTRSQdDL5Htwx4XPdWb/6rs=
+
+Name: r/05.xml
+SHA1-Digest: MAySfNMK78XnrR60EZEvO6SuiS8=
+
+Name: r/06
+SHA1-Digest: GfuCed2Ef4tHIjRG4bh+qTv+at0=
+
+Name: r/06.xml
+SHA1-Digest: UsbuUFiATCLVwr9Nuw0zZY3d/LM=
+
+Name: r/07
+SHA1-Digest: VZeYuRknTWozfRQyIRDY5rs0LEQ=
+
+Name: r/07.xml
+SHA1-Digest: Zic7k8rkwVyiLfaQYXymR96y/FQ=
+
+Name: r/08
+SHA1-Digest: kVp1bbbyhCZIk/Z9CNwSlqMrw7k=
+
+Name: r/08.xml
+SHA1-Digest: y2+vNGuaAvO+XY9GTpM/KLiFcQI=
+
+Name: r/09
+SHA1-Digest: YXOhN6WhSIVWt3+1eGdfaLMoRY0=
+
+Name: r/09.xml
+SHA1-Digest: rKgTUnliEU8a8YwxyFng62umkyc=
+
+Name: r/0A
+SHA1-Digest: FlKAWnTzsibAsgZAP5at9yNMIi8=
+
+Name: r/0A.xml
+SHA1-Digest: Is/5pTlHcb86vDX+gkc4MTwtuVg=
+
+Name: r/0B
+SHA1-Digest: udf4M+TnGCDOgiLqNXS7m9eE7Ko=
+
+Name: r/0B.xml
+SHA1-Digest: 7J98mlZl4Eb7RD3QyxGcls0022w=
+
+Name: r/0C
+SHA1-Digest: RhXL7KmmCZW2uU1k/A/E+aTEi6E=
+
+Name: r/0C.xml
+SHA1-Digest: OfThYcQhowNHQPQkGxf2ntKR96E=
+
+Name: r/0D
+SHA1-Digest: Qvp+QdGA8QFdBCl3v+lyYxLZdMk=
+
+Name: r/0D.xml
+SHA1-Digest: 4AMUIaPujRL5rfaqdZcxIy/3xeY=
+
+Name: r/0E
+SHA1-Digest: zI8OIUyyYJN4JqYEZIZ/hbWynJE=
+
+Name: r/0E.xml
+SHA1-Digest: x8eld94lnr3kheZSu34QUlBPstk=
+
+Name: r/0F
+SHA1-Digest: zxiHmz0td0ruSDI48+o+wjdvgc0=
+
+Name: r/0F.xml
+SHA1-Digest: kHDySQooX4y5N2QxW6QuqMZ+L/0=
+
+Name: r/0G
+SHA1-Digest: 1nH4+RpcOJwO6Jn+EynN1C9ZPB4=
+
+Name: r/0G.xml
+SHA1-Digest: wvyCBqphZkdzUVhH5ew/9N6flMY=
+
+Name: r/0H
+SHA1-Digest: kgVlwxOARvq1HWykZCOOPN/PWrY=
+
+Name: r/0H.xml
+SHA1-Digest: xg49GEbP3jTiWMGxMPBGw5Ho5aQ=
+
+Name: r/0I
+SHA1-Digest: P4avPKOaXG41uRAZ2UPJXD3yjKc=
+
+Name: r/0I.xml
+SHA1-Digest: dUZ+x0L12r9yyKgkyRro75pRhVY=
+
+Name: r/0J
+SHA1-Digest: mqkA/4vtty7maydZYTC7wVVuPhg=
+
+Name: r/0J.xml
+SHA1-Digest: H0oOpExmm+52EK5Io8fqw1AODS8=
+
+Name: r/0K
+SHA1-Digest: auvM7Fkt969m7Rw/ZVKvNbjoEbg=
+
+Name: r/0K.xml
+SHA1-Digest: jJbKYJDgseQYrE0/OzB/REfC1EM=
+
+Name: r/0L
+SHA1-Digest: C5BpxqBXoPGr5iOvU6vtnTHviVw=
+
+Name: r/0L.xml
+SHA1-Digest: FgB+wKLl+BZmlXjDTM5FMuOeX4M=
+
+Name: r/0M
+SHA1-Digest: rWfQ17IOCk4BrNaLmKkkag3Zs8Y=
+
+Name: r/0M.xml
+SHA1-Digest: 5jM6qxqsLBABcv/cuMNe+pC7XSE=
+
+Name: r/0N
+SHA1-Digest: OhTvVqjRDUr2StQdXtTRQ+Fy9NE=
+
+Name: r/0N.xml
+SHA1-Digest: 8PJtPDUsih1XgD8EFoLW/pf5Gf8=
+
+Name: r/0O
+SHA1-Digest: ZreV9OwwBolbGcgkGzhb6bIB3UQ=
+
+Name: r/0O.xml
+SHA1-Digest: p0NXpmQL8/nXuNfBMN399U3pRm0=
+
+Name: r/0P
+SHA1-Digest: /aC/24/eEdKdQvQ/qdTzVa95Idg=
+
+Name: r/0P.xml
+SHA1-Digest: IninhPQ0yVyaDLv2U9pNPRhmKRs=
+
+Name: r/0Q
+SHA1-Digest: rWfQ17IOCk4BrNaLmKkkag3Zs8Y=
+
+Name: r/0Q.xml
+SHA1-Digest: FFhxIPi0tcVOVrnxIFQIsrgzmm0=
+
+Name: r/0R
+SHA1-Digest: +BPjm1DC3e6EktBiajXyhQoOey8=
+
+Name: r/0R.xml
+SHA1-Digest: JshwiMEI7+iKZVLjlbGrv2Ps4Cs=
+
+Name: r/0S
+SHA1-Digest: qAibM+SHlQhcOpzqIY65RNKi1NE=
+
+Name: r/0S.xml
+SHA1-Digest: wj8I8/Q9kK/QsO8jbTOCKr5Mw04=
+
+Name: r/0T
+SHA1-Digest: P3dpH7SEO+EnHCYYeLeBHCyFjh0=
+
+Name: r/0T.xml
+SHA1-Digest: 1j3EGwikyTE17HMBJ/Lf4u4xvgs=
+
+Name: r/0U
+SHA1-Digest: JikFEs/3+gjOHJzyg8gjnXrr2fc=
+
+Name: r/0U.xml
+SHA1-Digest: Uj5bl3vfdr1k15A6xFhKyp0PoyI=
+
+Name: r/0V
+SHA1-Digest: Y8DcBAcXEzt/rQOj/quHZtFggHI=
+
+Name: r/0V.xml
+SHA1-Digest: y7yvHUPMc/Oc9zP+cV2SId5gxIQ=
+
+Name: r/0W
+SHA1-Digest: 6P3gHl6uYbX7pEM5NOSK3QRQqdM=
+
+Name: r/0W.xml
+SHA1-Digest: SZGXfvTBy+W28hNPhGoaXLHX/tg=
+
+Name: r/0X
+SHA1-Digest: fOtJ5ndgo4sK8SuPHU3Laksrcec=
+
+Name: r/0X.xml
+SHA1-Digest: dY9IgnIzM0A/QpT2C+i/1N0lt+A=
+
+Name: r/0Y
+SHA1-Digest: ckpDqAiomYHscVK+MLQivhKpBOU=
+
+Name: r/0Z
+SHA1-Digest: sG7DqELEfiWtezgjlKaP7k62HV0=
+
+Name: r/0a
+SHA1-Digest: UlQ9hlmm8XWCp0P6wTsE5aEfk40=
+
+Name: r/0b
+SHA1-Digest: gxj+257PnUX/vNjrTc9ZmoWVZFE=
+
+Name: r/0c
+SHA1-Digest: GK8I7oyd/st71W/1lVhmMhs+WmE=
+
+Name: r/0d
+SHA1-Digest: QIm4/Aq95WHIbKgDUFzsB7m6tkI=
+
+Name: r/0e
+SHA1-Digest: h3AzRnXkWBcmm1S49H3weuchM54=
+
+Name: r/0f
+SHA1-Digest: zE+NtmNIdUFf4TiWc8HIVYVfsmQ=
+
+Name: r/0g
+SHA1-Digest: 9HoawtL0cIOPUvUqLMHboenZ9Ko=
+
+Name: r/0h
+SHA1-Digest: BU5FH2iwMK3uuYEQaj7xSh2yKJ4=
+
+Name: r/0i
+SHA1-Digest: rJeBFImq16t/z3YI75lUWeJYxEs=
+
+Name: r/0j
+SHA1-Digest: hhwZcWfkKU3OsxQRqtvMVI9kGao=
+
+Name: r/0k
+SHA1-Digest: 26xFco7M1fHkZwkdzsBqytUoN9g=
+
+Name: r/0l
+SHA1-Digest: yQBZzxqdqM/3c/xkbhdaizcQKhY=
+
+Name: r/0m
+SHA1-Digest: +PLhNNeYeZUa83ESin+r4Ozdbhw=
+
+Name: r/0n
+SHA1-Digest: zLe2Ju71fgFk+SKW91hRYXRnDf4=
+
+Name: r/0o
+SHA1-Digest: /uqIvmnM+N4DXTaGpDodpSllsHM=
+
+Name: r/0p
+SHA1-Digest: ge7jHuBaDyOh/GIMuImrZTYCBI8=
+
+Name: r/0q
+SHA1-Digest: YaI2121WmRqwj4zpaKRvaydkVhQ=
+
+Name: r/0r
+SHA1-Digest: ShvB9zVeCnOT9aVBY7Id3AzObyU=
+
+Name: r/0s
+SHA1-Digest: nzlu6+9skzdtCpejODr/xcNYQ7k=
+
+Name: r/0t
+SHA1-Digest: UJWUGcy/y47Iz+m3mWTFxOq598s=
+
+Name: r/0u
+SHA1-Digest: FBPRDOp17q78Zv2BcJ+myLF+UBQ=
+
+Name: r/0v
+SHA1-Digest: ASdNotDXj8ybS0Bid+dqIKWfjlw=
+
+Name: r/0w
+SHA1-Digest: /QPyTD4rdwEtPso+f0HkxKzfNOg=
+
+Name: r/0x
+SHA1-Digest: ouys1ScKR81GBe0Ict288cMImt4=
+
+Name: r/0y
+SHA1-Digest: CrkWOJY03iADrC7VV4FeguRepQA=
+
+Name: r/0z
+SHA1-Digest: MPYMvOuxQzMBQoMqAa1TYu5IQL0=
+
+Name: r/1
+SHA1-Digest: ++sOw/916EgdnS4iNxu5GVStnL8=
+
+Name: r/1.xml
+SHA1-Digest: 104VZUlLhaNwynAPBRzXml34Tjk=
+
+Name: r/10
+SHA1-Digest: 9YzxhBD3Io2Cgo6memQoiwVnpvM=
+
+Name: r/11
+SHA1-Digest: d5646zGEJ1oNFSDmQ3WDcT+hxs4=
+
+Name: r/12
+SHA1-Digest: iYmqb6OcJHdld7xGWYtX5jrvla8=
+
+Name: r/13
+SHA1-Digest: sxQmIW4bHQMPW2Gela/XGpMQikw=
+
+Name: r/14
+SHA1-Digest: MtgBWIbNZft23hW7X+eT3LC92jc=
+
+Name: r/15
+SHA1-Digest: +rGX5jjBXYmY/TbIQNz5eLCeUak=
+
+Name: r/16
+SHA1-Digest: Hd9c0vLrcvFpmHPpn1vua5Tr44A=
+
+Name: r/17
+SHA1-Digest: coC1do+p6elCMk2rh9xP5s2Yrx8=
+
+Name: r/18
+SHA1-Digest: jjd7PSuFTFyiHbGQFzTKT1EoBrU=
+
+Name: r/19
+SHA1-Digest: Kg3QVIHAC3XsnwkoL4apm6RZMBk=
+
+Name: r/1A
+SHA1-Digest: 6wlWlQOKkFbgu8AOeT87R+P4vEE=
+
+Name: r/1B
+SHA1-Digest: zuhxb71XKCAwy2eZYlTmlBrpw6s=
+
+Name: r/1C
+SHA1-Digest: 6bzi35jxZsgBuAyVeG5gbZUn1Aw=
+
+Name: r/1D
+SHA1-Digest: TSx9OcVQSHsxi/hkikAUNXRKotQ=
+
+Name: r/1E
+SHA1-Digest: 3wpDQAJVP6/dUTcjcVdWAeFHNNE=
+
+Name: r/1F
+SHA1-Digest: +bBzSrMSxRvOx7qtGFzzkcq0hr0=
+
+Name: r/1G
+SHA1-Digest: BO+XEgOrh1DT52g0sn6Ga1ySSN8=
+
+Name: r/1H
+SHA1-Digest: CAnafv4Bqzkn0TZ74GbG/OBZ/N4=
+
+Name: r/1I
+SHA1-Digest: bP212sWceT/XPaghoMqPgUEVwec=
+
+Name: r/1J
+SHA1-Digest: 2f/7jdVhqIaz2RRaEOSGeqS1e0w=
+
+Name: r/1K
+SHA1-Digest: Lsuqhuub1p5Ms0+1ljusdzRh21M=
+
+Name: r/1L
+SHA1-Digest: Gad9HjxM5lMuIzdwcXOUMYMH9DU=
+
+Name: r/1M
+SHA1-Digest: G8AWr3cK5UovBu/iMzq8DCdhUf0=
+
+Name: r/1N
+SHA1-Digest: gulrPXK0JeFzyt2nGUvQXF/3WOs=
+
+Name: r/1O
+SHA1-Digest: KBsdNCIgQwBt0YByaBUmMPy0ZhE=
+
+Name: r/1P
+SHA1-Digest: RGLZQRT/1hIEi6uuvpKAV8/pObU=
+
+Name: r/1Q
+SHA1-Digest: sY0zT9HYvD1cWDw3I2xhCoWfxSw=
+
+Name: r/1R
+SHA1-Digest: gulrPXK0JeFzyt2nGUvQXF/3WOs=
+
+Name: r/1S
+SHA1-Digest: 05PsxoE/+Nlh8cjGHv19k1IFDmM=
+
+Name: r/1T
+SHA1-Digest: s9IHSLBnC7HlzWzf6+rxhpnoUJQ=
+
+Name: r/1U
+SHA1-Digest: 4FSqfvGzqPcx2hEKGulCzNAlJyg=
+
+Name: r/1V
+SHA1-Digest: ahasUIILJYNIT+Q/2tBoG6WYxiw=
+
+Name: r/1W
+SHA1-Digest: nbI1LMbKKhsDQnkLauaEkHCGmrI=
+
+Name: r/1X
+SHA1-Digest: nz7txCPoKCVaas2eF2RDsqigkio=
+
+Name: r/1Y
+SHA1-Digest: YJsTDN5tmJc0WVJnY53Zl2rssAc=
+
+Name: r/1Z
+SHA1-Digest: nKch3MICuqjKKOQPplJcdfxQY+g=
+
+Name: r/1a
+SHA1-Digest: kF6W2hoDGZfcifist0gPkJK8//U=
+
+Name: r/1b
+SHA1-Digest: 3nfevuQLRDS6sqeEAsi2uSsAycM=
+
+Name: r/1c
+SHA1-Digest: kpHdvnEBGDRzyNYgVV9px2m1RLk=
+
+Name: r/1d
+SHA1-Digest: LL+Pg7F+kPfGM7Ndg0atkAnceGk=
+
+Name: r/1e
+SHA1-Digest: z4lph6xlv9ztpVWW3QM9h7QjqS0=
+
+Name: r/1f
+SHA1-Digest: 4p73qEDb6o5pHYXIk7ooK8rK73Q=
+
+Name: r/2
+SHA1-Digest: AI82AcgbBGuUm0saKN6cW1HPv+w=
+
+Name: r/2.xml
+SHA1-Digest: pJ2Q9Ty9wjaKOc0NHopJe+BJzKM=
+
+Name: r/3
+SHA1-Digest: oyK908ITi4ncE1x413cSudaUyis=
+
+Name: r/3.xml
+SHA1-Digest: 9XGnNBE4hT/EdlEFXvIur44Vp3o=
+
+Name: r/4
+SHA1-Digest: 84VFkBa9KP++pv1aritXYQWuD68=
+
+Name: r/4.xml
+SHA1-Digest: dIYOmonpMeRS79A0hfWZLO71Zk8=
+
+Name: r/5
+SHA1-Digest: AO8LNVVDZqWGewQ5LaC/RGy2nKo=
+
+Name: r/5.xml
+SHA1-Digest: hY+uvTVt215v95lqdwJwINIftQY=
+
+Name: r/6
+SHA1-Digest: 4f3D3QSNCzMFGqafojrMfwWdbXM=
+
+Name: r/6.xml
+SHA1-Digest: JL+TuCPNdNRHRihRFYzxYilugGE=
+
+Name: r/7
+SHA1-Digest: kveLMr9nj8U5xzQJqHFMQfwUpTM=
+
+Name: r/7.xml
+SHA1-Digest: vVVm5No2sfIl99GnUDNF6IU76/w=
+
+Name: r/8
+SHA1-Digest: m2SsiKQTL6ODSYkVUIYlTpO7mvg=
+
+Name: r/8.xml
+SHA1-Digest: XnmoJ/Dxw1unI1nZXNRjV5OqiDM=
+
+Name: r/9
+SHA1-Digest: sXmiOCGzqP35R4KapkgfkP4ggoo=
+
+Name: r/9.xml
+SHA1-Digest: ECX8yWLZewhqkme6pJCwb1sua9I=
+
+Name: r/A
+SHA1-Digest: CCD5Gnsi8O8AfnbbijSEON8GzJs=
+
+Name: r/A.xml
+SHA1-Digest: fbHrrqYaWjptJLnxkb1HnRsV3wA=
+
+Name: r/B
+SHA1-Digest: xf5ArNzS8zzy32BSNURxL2KJMyc=
+
+Name: r/B.xml
+SHA1-Digest: u3mbyMpVQU9uVnEuTUuYFf6c5hM=
+
+Name: r/C
+SHA1-Digest: 8HQiiAgvOObToTRoHBNjz32YT7o=
+
+Name: r/C.xml
+SHA1-Digest: 1Vx8650F51pms43/65jfwmCiim0=
+
+Name: r/D
+SHA1-Digest: SfFDJcihq8+RGxrpeq2eflw5RV8=
+
+Name: r/D.xml
+SHA1-Digest: sFAQqJhFN85wIeKzUwozjOrPm1M=
+
+Name: r/E
+SHA1-Digest: rLmxmecNDDLjueGOeuv6V3Ver0A=
+
+Name: r/E.xml
+SHA1-Digest: jh3Vb4szG6FqUIQlzL1fF1uSI/M=
+
+Name: r/F
+SHA1-Digest: DTPdcyeDe7WBc+LUgdzpcPriOyI=
+
+Name: r/F.xml
+SHA1-Digest: zaapIHT85oAIYb/WrExYTnAwDC0=
+
+Name: r/G
+SHA1-Digest: mmR6SSSZXvuINMUG2vxZN6es9pQ=
+
+Name: r/G.xml
+SHA1-Digest: CKcBJJ9e8K2Ttuf2J5QGbsUbX7A=
+
+Name: r/H
+SHA1-Digest: lx2cLccXdHHqVpDTLaPPaqcv8UY=
+
+Name: r/H.xml
+SHA1-Digest: YSL7NizxE5sjjDTbApr/cYBjlUE=
+
+Name: r/I
+SHA1-Digest: X97v7W01deS+NKnaRRuGUOsjVAc=
+
+Name: r/I.xml
+SHA1-Digest: jCeuOHrSkk4BZcoSUkJJ6i4ZlrM=
+
+Name: r/J
+SHA1-Digest: xf5ArNzS8zzy32BSNURxL2KJMyc=
+
+Name: r/J.xml
+SHA1-Digest: gT0snbTY+7AKN+LifOuR/+xusXA=
+
+Name: r/K
+SHA1-Digest: RPxhwwRqDi+TYWCya+ZFcWNjHrk=
+
+Name: r/K.xml
+SHA1-Digest: qnvnJna4EtMPOgkl4DLop5yEy7E=
+
+Name: r/L
+SHA1-Digest: u5/GkhxWujojGK2nvuyK3zBcoJw=
+
+Name: r/L.xml
+SHA1-Digest: plo2soE7A57gxpyJkxKJ5Zb6urU=
+
+Name: r/M
+SHA1-Digest: iJTUCJC7OCmrZD8R4EovSP/VN2o=
+
+Name: r/M.xml
+SHA1-Digest: Jnox44yRLuWswZJ4qg39s2rcbKE=
+
+Name: r/N
+SHA1-Digest: 5Kx3J7A80fUuFO2LOj1zycgSRwA=
+
+Name: r/N.xml
+SHA1-Digest: H61S1lTmSIRX/UE0aq9G7jGXeyg=
+
+Name: r/O
+SHA1-Digest: 3euiFWa4VcGXIwXELqld2K6IF1k=
+
+Name: r/O.xml
+SHA1-Digest: DoB0lZ5f4KFH2fi5yHOyo4tPiXw=
+
+Name: r/P
+SHA1-Digest: PklVmibqmKC5qed2A+hMYgbCUAU=
+
+Name: r/P.xml
+SHA1-Digest: 8jYrg3ksEKaqyK/+22hydQfFEdk=
+
+Name: r/Q
+SHA1-Digest: MegPkM8WsfU+C0Ecaw/tAXU8TdA=
+
+Name: r/Q.xml
+SHA1-Digest: 8rgurj0tq/QNVQBWjSwORb1wRPk=
+
+Name: r/R
+SHA1-Digest: 8LbHyG5Ni90GA6E+yMjUgCNTFp4=
+
+Name: r/R.xml
+SHA1-Digest: 2fZcrrrWejacQAQ35M3WiVk82YI=
+
+Name: r/S
+SHA1-Digest: naVAiXu/cQlseqFubPEwZcjNums=
+
+Name: r/S.xml
+SHA1-Digest: XUENoXoJgiqBRdHRp6snzlgq3S4=
+
+Name: r/T
+SHA1-Digest: 5E5DBggY2Xv3vMPXLXwetmmSe1I=
+
+Name: r/T.xml
+SHA1-Digest: grc5AoPBMT7G4LBQBtliBBQSDZc=
+
+Name: r/U
+SHA1-Digest: MoNfnv9wGmyZES4LSQ9L8nD18y0=
+
+Name: r/U.xml
+SHA1-Digest: A02hsUEtg7jZ+r6LKO2AoOEIpww=
+
+Name: r/V
+SHA1-Digest: MDZBlBc6gAWu7YxHCr0K01axORg=
+
+Name: r/V.xml
+SHA1-Digest: 23kZAPRro7BE7dDalcWsYy9gxHM=
+
+Name: r/W
+SHA1-Digest: R4aV8uVP/uJRG9V5EOKqfanBrFc=
+
+Name: r/W.xml
+SHA1-Digest: 6LxtqddIY5+zN9zFsjng2zIUD7s=
+
+Name: r/X
+SHA1-Digest: nbLDLBaNtX2tUxUxvdEPvUWcGWs=
+
+Name: r/X.xml
+SHA1-Digest: 2NLniZVqxrzJBvIbd1YYn17hU8o=
+
+Name: r/Y
+SHA1-Digest: FQMDmpHZ6K8Ky0qHAnjJ37M2L3c=
+
+Name: r/Y.xml
+SHA1-Digest: 51DIAQlpY662970gffiuzXwgqxE=
+
+Name: r/Z
+SHA1-Digest: uBHS7zAaK8nDYOxpmI4sbnqnct4=
+
+Name: r/Z.xml
+SHA1-Digest: GBM6awAie/q0BQ18JO8IiSt6cAM=
+
+Name: r/a
+SHA1-Digest: Zd7+Vv2HT7f3ecvUThRM8a26lzs=
+
+Name: r/a.xml
+SHA1-Digest: DK0LUzVOaLwtYZEhTG8xxnbI9z8=
+
+Name: r/b
+SHA1-Digest: gxxFvmp6W7YBg3Fd0SL3Uk8UY3w=
+
+Name: r/b.xml
+SHA1-Digest: wmXinYhMjf6maASs9DBb9rpUUb0=
+
+Name: r/c
+SHA1-Digest: NR+wLVikc3Z3zo7C/KLzKuWSkD8=
+
+Name: r/c.xml
+SHA1-Digest: PqkwiYYsPKdfB7rTs8PMkCuSj5I=
+
+Name: r/d
+SHA1-Digest: NwIAzHxybmEsJf+xzGfHmMLytNA=
+
+Name: r/d.xml
+SHA1-Digest: DVALH/wFDchD4BD84jARwEkZnf0=
+
+Name: r/e
+SHA1-Digest: jEMejmS6lsAopVGidoT4z29r/AA=
+
+Name: r/e.xml
+SHA1-Digest: w1F5yFJUQaK7QMIRJ3lD9ABDbBQ=
+
+Name: r/f
+SHA1-Digest: M72JcwOLGDkg5hRimU4UbI7oY2U=
+
+Name: r/f.xml
+SHA1-Digest: lSB6AEpiV58Wh07wZUW3XieEXWA=
+
+Name: r/g
+SHA1-Digest: lLV7XJVQfk7rQkVEwAyQ9jcOoxs=
+
+Name: r/g.xml
+SHA1-Digest: 2kgKiGfMyv6w77ebfMFi4YOBe38=
+
+Name: r/h
+SHA1-Digest: VNBkT861LltoTqhHhXRs1TBl2oI=
+
+Name: r/h.xml
+SHA1-Digest: 7vRdzXjRMTkkw/NbGtaRTm+FdrQ=
+
+Name: r/i
+SHA1-Digest: JAoEkugWL84uawXiQChf//k3bsc=
+
+Name: r/i.xml
+SHA1-Digest: MPvvFeXDoCqJx0Sqld66f27yp1A=
+
+Name: r/j
+SHA1-Digest: dOY+zyfzFPDeVQ8RlTLRpKwxq8U=
+
+Name: r/j.xml
+SHA1-Digest: cdbOf/QxFCcv1BkKz54Nn+WjwTM=
+
+Name: r/k
+SHA1-Digest: LfE9K9Z9L79jhSDS4XcJb6wd/KQ=
+
+Name: r/k.xml
+SHA1-Digest: UvwoIqjfRgrkSq5BmiMdxe5puME=
+
+Name: r/l
+SHA1-Digest: NGkJLMAj1S107NFWUKpR+MZEi7Q=
+
+Name: r/l.xml
+SHA1-Digest: za62/uWE/7nb5dAyEy5xLxilxYk=
+
+Name: r/m
+SHA1-Digest: 6mVhVk+fG438eVPWp87R/evxK68=
+
+Name: r/m.xml
+SHA1-Digest: +i2YL3v+qegRCkLJyYz/dzuIRnI=
+
+Name: r/n
+SHA1-Digest: ix/N4Cl2Gn4GJ48unZLDzerm6VQ=
+
+Name: r/n.xml
+SHA1-Digest: ZJuRb4GvxFayAIcAnxpvA4fjZJc=
+
+Name: r/o
+SHA1-Digest: RSAZH68I5656VspdUG+hJ6VDYj0=
+
+Name: r/o.xml
+SHA1-Digest: iAym3Fqm3VQdXGtHmnUDkRWTkVE=
+
+Name: r/p
+SHA1-Digest: SbgYaM/Qrv026Ew0S/CgcecPbVE=
+
+Name: r/p.xml
+SHA1-Digest: bhwXMVz2UwhR+KVGvYS36nTnVOk=
+
+Name: r/q
+SHA1-Digest: 3KLDHmeqPBYNjWTUJhhbQ/CDdbE=
+
+Name: r/q.xml
+SHA1-Digest: 4ja2Dnioh1qO0ZuB7eh74ousuFg=
+
+Name: r/r
+SHA1-Digest: PxCkG4zdX5pJm40tNsEIjYq49rE=
+
+Name: r/r.xml
+SHA1-Digest: 76WkzQZ+uANP7xIObsPWXCc9eD8=
+
+Name: r/s
+SHA1-Digest: gySXu+ELQ/cVaEP6FMnb5e7FKro=
+
+Name: r/s.xml
+SHA1-Digest: mjXEgGycjBB72K/hoj3zy7X0cns=
+
+Name: r/t
+SHA1-Digest: SSXSF827T6VYyvClwRPVTinXGxw=
+
+Name: r/t.xml
+SHA1-Digest: Oa22ye5v3KgC/mBLzsHjm0x1luQ=
+
+Name: r/u
+SHA1-Digest: LhjpvssiU+EsP1ekA4Pz7kHKA8M=
+
+Name: r/u.xml
+SHA1-Digest: 5S5xj8/vR5FgWjfKY+I5I1tVXkU=
+
+Name: r/v
+SHA1-Digest: dKNMYE56uw7hHK3Q1nWHqwZSxUA=
+
+Name: r/v.xml
+SHA1-Digest: SLa9wb+Yz9NC5RLkywoRBeP03RQ=
+
+Name: r/w
+SHA1-Digest: 4Lu0eCYwl5T1qWS0dykRKEiXZa4=
+
+Name: r/w.xml
+SHA1-Digest: 1nUFlVeziWFrL9kEOWBbTC8+Q6I=
+
+Name: r/x
+SHA1-Digest: Fgba7y1Z4nE4a7p4911olsAL6g8=
+
+Name: r/x.xml
+SHA1-Digest: JPF+KFNolRLLu66zEEl2xbXxYbI=
+
+Name: r/y
+SHA1-Digest: aO76fU+BkqgDJya6a7iFEHX75PA=
+
+Name: r/y.xml
+SHA1-Digest: jwttaD6DPqivW2iW//4mb3in1Ec=
+
+Name: r/z
+SHA1-Digest: 6rBvaImhTg0VWskPUjdfECZEoAs=
+
+Name: r/z.xml
+SHA1-Digest: aOa07f20QY0FXNO1D0XI275N1yo=
+
+Name: resources.arsc
+SHA1-Digest: URZxU/WhCSTKkWhv3c/ovsmqjuk=
+
