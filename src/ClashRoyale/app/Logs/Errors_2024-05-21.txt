@@ -1,0 +1,7 @@
+[21:18:23.3123][ERROR]  ->  Couldn't track location of 49.93.190.217
+[21:38:21.8867][ERROR]  ->  Couldn't track location of 49.93.190.217
+[21:38:39.0447][ERROR]  ->  Couldn't track location of 49.93.190.217
+[21:41:26.3798][ERROR]  ->  System.Net.Sockets.SocketException (10054): 远程主机强迫关闭了一个现有的连接。
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
+[21:42:24.5108][ERROR]  ->  Couldn't track location of 49.93.190.217

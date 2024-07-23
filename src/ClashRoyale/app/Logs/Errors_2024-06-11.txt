@@ -1,0 +1,18 @@
+[23:37:43.5919][ERROR]  ->  System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at ClashRoyale.Logic.Home.Decks.Cards.Random(Rarity rarity) in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Home\Decks\Cards.cs:line 119
+   at ClashRoyale.Logic.Home.Shop.Shop.RandomSpell(Rarity rarity) in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Home\Shop\Shop.cs:line 110
+   at ClashRoyale.Logic.Home.Shop.Shop.Refresh() in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Home\Shop\Shop.cs:line 35
+   at ClashRoyale.Logic.Home.Home..ctor(Int64 id, String token) in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Home\Home.cs:line 59
+   at ClashRoyale.Logic.Player..ctor(Int64 id) in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Player.cs:line 21
+   at ClashRoyale.Database.PlayerDb.CreateAsync() in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Database\PlayerDb.cs:line 137
+[23:38:03.4171][ERROR]  ->  System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at ClashRoyale.Logic.Home.Decks.Cards.Random(Rarity rarity) in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Home\Decks\Cards.cs:line 119
+   at ClashRoyale.Logic.Home.Shop.Shop.RandomSpell(Rarity rarity) in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Home\Shop\Shop.cs:line 110
+   at ClashRoyale.Logic.Home.Shop.Shop.Refresh() in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Home\Shop\Shop.cs:line 35
+   at ClashRoyale.Logic.Home.Home..ctor(Int64 id, String token) in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Home\Home.cs:line 59
+   at ClashRoyale.Logic.Player..ctor(Int64 id) in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Player.cs:line 21
+   at ClashRoyale.Database.PlayerDb.CreateAsync() in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Database\PlayerDb.cs:line 137

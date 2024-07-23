@@ -1,0 +1,21 @@
+[03:27:00.3246][ERROR]  ->  System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at ClashRoyale.Logic.Home.Decks.Cards.Random(Rarity rarity) in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Home\Decks\Cards.cs:line 119
+   at ClashRoyale.Logic.Home.Shop.Shop.RandomSpell(Rarity rarity) in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Home\Shop\Shop.cs:line 110
+   at ClashRoyale.Logic.Home.Shop.Shop.Refresh() in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Home\Shop\Shop.cs:line 35
+   at ClashRoyale.Logic.Home.Home..ctor(Int64 id, String token) in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Home\Home.cs:line 59
+   at ClashRoyale.Logic.Player..ctor(Int64 id) in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Player.cs:line 21
+   at ClashRoyale.Database.PlayerDb.CreateAsync() in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Database\PlayerDb.cs:line 137
+[03:29:49.0286][ERROR]  ->  System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at ClashRoyale.Logic.Home.Decks.Cards.Random(Rarity rarity) in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Home\Decks\Cards.cs:line 119
+   at ClashRoyale.Logic.Home.Shop.Shop.RandomSpell(Rarity rarity) in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Home\Shop\Shop.cs:line 110
+   at ClashRoyale.Logic.Home.Shop.Shop.Refresh() in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Home\Shop\Shop.cs:line 35
+   at ClashRoyale.Logic.Home.Home..ctor(Int64 id, String token) in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Home\Home.cs:line 59
+   at ClashRoyale.Logic.Player..ctor(Int64 id) in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Logic\Player.cs:line 21
+   at ClashRoyale.Database.PlayerDb.CreateAsync() in C:\CZsifu\fwq\复古老源-gai\src\ClashRoyale\Database\PlayerDb.cs:line 137
+[03:56:56.5821][ERROR]  ->  System.Net.Sockets.SocketException (10054): 远程主机强迫关闭了一个现有的连接。
+   at DotNetty.Transport.Channels.Sockets.SocketChannelAsyncOperation.Validate()
+   at DotNetty.Transport.Channels.Sockets.AbstractSocketByteChannel.SocketByteChannelUnsafe.FinishRead(SocketChannelAsyncOperation operation)
