@@ -1,0 +1,8 @@
+[18:18:10.9686][INFO]  ->  Starting [18:18:10 - Windows]...
+[18:18:11.2312][INFO]  ->  Listening on 0.0.0.0:9449. Time to fight!
+[23:12:23.0511][INFO]  ->  Starting [23:12:23 - Windows]...
+[23:12:23.3557][INFO]  ->  Listening on 0.0.0.0:9449. Time to fight!
+[23:12:23.3809][INFO]  ->  Connected to the cluster on 127.0.0.1:54612.
+[23:15:07.3728][INFO]  ->  Connected to the cluster on 127.0.0.1:54631.
+[23:15:59.8579][INFO]  ->  Connected to the cluster on 127.0.0.1:54642.
+[23:17:01.7689][INFO]  ->  Connected to the cluster on 127.0.0.1:54656.
