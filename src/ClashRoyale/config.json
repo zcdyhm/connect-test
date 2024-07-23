@@ -1,0 +1,16 @@
+{
+  "cluster_encryption_key": "15uvmi8qnyuj9tm53ipaavvytltm582yatecyjzb",
+  "cluster_encryption_nonce": "nonce",
+  "cluster_server_port": 9876,
+  "encryption_key": "fhsd6f86f67rt8fw78fw789we78r9789wer6re",
+  "mysql_database": "rrdb",
+  "mysql_password": "Czdrj56*",
+  "mysql_server": "127.0.0.1",
+  "mysql_user": "root",
+  "patch_url": "no",
+  "sentry_api": "",
+  "server_port": 9339,
+  "update_url": "no",
+  "use_content_patch": false,
+  "use_udp": false
+}
