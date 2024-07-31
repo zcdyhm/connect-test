@@ -1,0 +1,16 @@
+Name,IconFile,UnlockArena,Rarity,ManaCost,ManaCostFromSummonerMana,NotInUse,Mirror,CustomDeployTime,SummonCharacter,SummonNumber,SummonCharacterLevelIndex,SummonCharacterSecond,SummonCharacterSecondCount,SummonRadius,Radius,Height,Projectile,SpellAsDeploy,CanPlaceOnBuildings,InstantDamage,DurationSeconds,InstantHeal,HealPerSecond,Effect,Pushback,MultipleProjectiles,CustomFirstProjectile,BuffTime,BuffTimeIncreasePerLevel,BuffNumber,BuffType,BuffOnDamage,OnlyOwnTroops,OnlyEnemies,CanDeployOnEnemySide,CastSound,AreaEffectObject,TID,TID_INFO,IndicatorEffect,HideRadiusIndicator,DestIndicatorEffect,ReleaseDate,ElixirProductionStopTime,DarkMirror,StatsUnderInfo
+string,string,string,string,int,boolean,boolean,boolean,int,string,int,int,string,int,int,int,int,string,boolean,boolean,int,int,int,int,string,int,int,string,int,int,int,string,string,boolean,boolean,boolean,string,string,string,string,String,boolean,String,String,int,boolean,boolean
+Cannon,chaos_cannon,Arena3,Common,2,,,,,wdss,,,,,,,,,,,,,,,,,,,,,,,,,,,SpellCasting,,TID_4-b-wdss,TID_4-b-wdss-i,,,,,,,
+GoblinHut,miner,Arena6,Legendary,4,,,,,kgdj,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,SpellCasting,,TID_SPELL_MINER,TID_SPELL_INFO_MINER,,,,,,,
+Mortar,building_mortar,Arena6,Common,4,,,,,qiang,,,,,,,,,,,,,,,,1500,,,,,,,,,,,SpellCasting,,TID_8-b-q,TID_8-b-q-i,,,,,,,
+InfernoTower,not_in_use,Arena4,Rare,5,,TRUE,,,Cannon,,,,,,,,,,,,,,,,,,,,,,,,,,,SpellCasting,,TID_SPELL_KNIGHT-z,TID_SPELL_INFO_KNIGHT-z,,,,,,,
+BombTower,bomb_tower,Arena2,Rare,5,,,,,jnp,,,,,,,,,,,,,,,,,,,,,,,,,,,SpellCasting,,TID_17-b-jnpt,TID_17-b-jnpt-i,,,,,,,
+BarbarianHut,barbarian_hut,Arena3,Rare,5,,,,,mo,,,,,,,,,,,,,,,,,,,,,,,,,,,SpellCasting,,TID_9-b-mo,TID_9-b-mo-i,,,,,,,
+Tesla,building_tesla,Arena4,Common,6,,,,,dcp,,,,,,,,,,,,,,,,,,,,,,,,,,,SpellCasting,,TID_18-b-dcmcp,TID_18-b-dcmcp-i,,,,,,,
+Elixir Collector,building_elixir_collector,Arena6,Rare,5,,,,,ElixirCollector-z,,,,,,,,,,,,,,,,,,,,,,,,,,,SpellCasting,,TID_SPELL_ELIXIR_COLLECTOR,TID_SPELL_INFO_ELIXIR_COLLECTOR,,,,,,,
+Xbow,building_xbow,Arena3,Epic,4,,,,,Xbow,,,,,,,,,,,,,,,,,,,,,,,,,,,SpellCasting,,TID_SPELL_XBOW,TID_SPELL_INFO_XBOW,,,,,,,
+Tombstone,not_in_use,Arena2,Rare,3,,TRUE,,,Cannon,,,,,,,,,,,,,,,,,,,,,,,,,,,SpellCasting,,TID_SPELL_KNIGHT-z,TID_SPELL_INFO_KNIGHT-z,,,,,,,
+FirespiritHut,not_in_use,Arena5,Rare,4,,TRUE,,,Cannon,,,,,,,,,,,,,,,,,,,,,,,,,,,SpellCasting,,TID_SPELL_KNIGHT-z,TID_SPELL_INFO_KNIGHT-z,,,,,,,
+NOT_IN_USE_7,not_in_use,Arena3,Common,3,,TRUE,,,Cannon,,,,,,,,,,,,,,,,,,,,,,,,,,,SpellCasting,,TID_SPELL_KNIGHT-z,TID_SPELL_INFO_KNIGHT-z,,,,,,,
+NOT_IN_USE_8,not_in_use,Arena3,Common,3,,TRUE,,,Cannon,,,,,,,,,,,,,,,,,,,,,,,,,,,SpellCasting,,TID_SPELL_KNIGHT-z,TID_SPELL_INFO_KNIGHT-z,,,,,,,
+NOT_IN_USE_6,not_in_use,Arena3,Common,3,,TRUE,,,Cannon,,,,,,,,,,,,,,,,,,,,,,,,,,,SpellCasting,,TID_SPELL_KNIGHT-z,TID_SPELL_INFO_KNIGHT-z,,,,,,,
